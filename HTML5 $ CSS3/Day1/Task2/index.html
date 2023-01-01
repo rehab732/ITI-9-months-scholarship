@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Colors</title>
+    <style>
+        label{
+            color: #e65082;
+            font-weight: bold;
+
+        }
+        div{
+            margin-top: 250px;
+        }
+    </style>
+  </head>
+  <body>
+    <div style="text-align: center;">
+    <label>Red:</label>
+    <input type="range" min="0" max="255" oninput="changeColor()" />
+    <br />
+    <label>Green:</label>
+    <input type="range" min="0" max="255" oninput="changeColor()" />
+    <br />
+    <label>blue:</label>
+    <input type="range" min="0" max="255" oninput="changeColor()" />
+</div>
+    <h1 style="text-align: center;">Change the 3 color ranges above and observe my color change</h1>
+
+    <script>
+      function changeColor() {
+        var sliders = document.getElementsByTagName("input");
+        var text = document.getElementsByTagName("h1");
+        text[0].style.color =
+          "rgb(" +
+          sliders[0].value +
+          "," +
+          sliders[1].value +
+          "," +
+          sliders[2].value +
+          ")";
+      }
+    </script>
+  </body>
+</html>
