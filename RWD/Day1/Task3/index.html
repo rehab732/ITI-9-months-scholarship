@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Responsive</title>
+
+    </head>
+    <style>
+        .con{
+            display: flex;
+            flex-direction: column;
+            
+            
+        }
+        .con1{
+            display: flex;
+            justify-content: space-between;
+       
+        }
+
+header,footer
+{
+    text-align: center;
+    background-color: rgb(93, 93, 225);
+    height: 100px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+   
+  
+}
+.one{
+    width: 300px;
+    height: 400px;
+    background-color: brown;
+    margin: 5px;
+
+}
+.two{
+    width: 1000px;
+    height: 400px;
+    margin: 5px;
+    background-color: rgb(0, 99, 99);
+ 
+
+}
+.three{
+    width: 300px;
+    height: 400px;
+    background-color: brown;
+    margin: 5px;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+@media only screen and (max-width: 767px) {
+      .con1 {
+        flex-direction: column;
+        text-align: center;
+      }
+      .one{
+        width: 1000px;
+
+      }
+      .three{
+        width: 1000px;
+
+       
+      }
+      header {
+            width: 1000px;
+        }
+        footer {
+            width: 1000px;
+        }
+    }
+    </style>
+    <body>
+           <div class="con">
+            <header>HEADERS</header>
+            <div class="con1">
+                <div class="one">
+                    <h1>SIDENAV</h1>
+
+                </div>
+                <div class="two">
+                    <h1>Main Content</h1>
+                </div>
+                <div class="three">
+                    <h1>SIDEBAR</h1>
+                </div>
+            </div>
+            <footer>FOOTER</footer>
+        </div>
+      
+
+    </body>
+</html>

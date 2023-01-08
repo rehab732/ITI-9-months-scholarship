@@ -1,0 +1,37 @@
+.bgimage
+{
+    background-image: url("/images/intro_flower.png");
+}
+
+
+nav ul li a:hover
+{
+    color: #fff !important;
+}
+.navbar .navbar-toggler{
+    color:white;
+    font-size: 25px;
+    border-color: white;
+}
+.navbar .navbar-toggler:focus{
+    box-shadow: none;
+}
+.navbar .navbar-toggler[aria-expanded="true"]{
+    border-color: orange;
+}
+#im{
+    margin-left: 70px;
+}
+
+#dii{
+    height: 400px;
+    width: 400px;
+}
+#flower{
+    width: 284px;
+    height: 209px;
+    
+}
+#pp{
+    font-size: small;
+}

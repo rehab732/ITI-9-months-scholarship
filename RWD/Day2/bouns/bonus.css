@@ -1,0 +1,131 @@
+body
+{
+    background-color: pink;
+}
+.container
+{
+    transform: rotate(-45deg);
+    position: relative;
+    height: 50vh;
+    width: 25vw;
+    display: grid;
+    left: 20%;
+    top: 40%;
+    grid-template-columns: repeat(3,1fr);
+}
+.cl-1
+{
+    background-color: gray;
+    margin: 2px;
+    grid-row-start: 1 ;
+    grid-row-end: 3 ;
+}
+.cl-2
+{
+    background-color: gray;
+    margin: 3px;
+    grid-column-start: 2 ;
+    grid-column-end: 4 ;
+}
+.cl-3
+{
+    background-color: gray;
+    margin: 3px;
+    grid-column-start: 2 ;
+    grid-column-end: 3 ;
+    grid-row-start: 2 ;
+    grid-row-end: 3 ;
+}
+.cl-4
+{
+    background-color: gray;
+    margin: 3px;
+    grid-row-start: 2 ;
+    grid-row-end: 4 ;
+}
+.cl-5
+{
+    background-color: gray;
+    margin: 3px;
+    grid-column-start: 1 ;
+    grid-column-end: 3 ;
+}
+@media(max-width:500.999px)
+{
+.container
+{
+    transform: rotate(45deg);
+    height: 25vh;
+    width: 50vw;
+}
+.bg
+{
+    background-color: rgb(176, 60, 199);
+}
+}
+@media(min-width:501px) and (max-width:767.999)
+{
+.container
+{
+    transform: rotate(90deg);
+    height: 25vh;
+    width: 50vw;
+}
+.bg
+{
+    background-color: rgb(15, 82, 137);
+}
+}
+@media(max-width:1024px)
+{
+.container
+{
+    transform: rotate(135deg);
+    height: 50vh;
+    width: 25vw;
+}
+.bg
+{
+    background-color: brown;
+}
+}
+@media(min-width:1025px) and (max-width:1100px)
+{
+.container
+{
+    transform: rotate(180deg);
+    height: 50vh;
+    width: 25vw;
+}
+.bg
+{
+    background-color: rgb(31, 178, 158);
+}
+}
+@media(min-width:1100px) and (max-width:1200px)
+{
+.container
+{
+    transform: rotate(225deg);
+    height: 50vh;
+    width: 25vw;
+}
+.bg
+{
+    background-color: rgb(7, 36, 15);
+}
+}
+
+@media(min-width:1280px)
+{
+.container
+{
+    transform: rotate(270deg);
+    height: 50vh;
+    width: 25vw;
+}
+.bg
+{
+    background-color: rgb(31, 49, 178);
+}
+}
