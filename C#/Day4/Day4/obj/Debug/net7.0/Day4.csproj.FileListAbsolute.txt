@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\bin\Debug\net7.0\Day4.exe
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\bin\Debug\net7.0\Day4.deps.json
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\bin\Debug\net7.0\Day4.runtimeconfig.json
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\bin\Debug\net7.0\Day4.dll
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\bin\Debug\net7.0\Day4.pdb
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\Day4.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\Day4.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\Day4.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\Day4.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\Day4.dll
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\refint\Day4.dll
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\Day4.pdb
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\Day4.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\Answers\Day4\Day4\obj\Debug\net7.0\ref\Day4.dll
