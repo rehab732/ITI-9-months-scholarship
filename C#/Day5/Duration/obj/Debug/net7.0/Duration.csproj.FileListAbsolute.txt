@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\bin\Debug\net7.0\Duration.exe
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\bin\Debug\net7.0\Duration.deps.json
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\bin\Debug\net7.0\Duration.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\bin\Debug\net7.0\Duration.dll
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\bin\Debug\net7.0\Duration.pdb
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\Duration.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\Duration.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\Duration.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\Duration.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\Duration.dll
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\refint\Duration.dll
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\Duration.pdb
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\Duration.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day5\Duration\obj\Debug\net7.0\ref\Duration.dll
