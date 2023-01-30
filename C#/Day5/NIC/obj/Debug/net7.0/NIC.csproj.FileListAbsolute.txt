@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\bin\Debug\net7.0\NIC.exe
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\bin\Debug\net7.0\NIC.deps.json
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\bin\Debug\net7.0\NIC.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\bin\Debug\net7.0\NIC.dll
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\bin\Debug\net7.0\NIC.pdb
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\NIC.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\NIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\NIC.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\NIC.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\NIC.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\NIC.dll
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\refint\NIC.dll
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\NIC.pdb
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\NIC.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day5\NIC\obj\Debug\net7.0\ref\NIC.dll

@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\point.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\point.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\point.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\point.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\point.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day5\point\bin\Debug\net7.0\point.exe
+E:\ITI\SD Mobile\C#\C#\Day5\point\bin\Debug\net7.0\point.deps.json
+E:\ITI\SD Mobile\C#\C#\Day5\point\bin\Debug\net7.0\point.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day5\point\bin\Debug\net7.0\point.dll
+E:\ITI\SD Mobile\C#\C#\Day5\point\bin\Debug\net7.0\point.pdb
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\point.dll
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\refint\point.dll
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\point.pdb
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\point.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day5\point\obj\Debug\net7.0\ref\point.dll

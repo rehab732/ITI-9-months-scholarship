@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\bin\Debug\net7.0\MathFunction.exe
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\bin\Debug\net7.0\MathFunction.deps.json
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\bin\Debug\net7.0\MathFunction.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\bin\Debug\net7.0\MathFunction.dll
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\bin\Debug\net7.0\MathFunction.pdb
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\MathFunction.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\MathFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\MathFunction.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\MathFunction.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\MathFunction.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\MathFunction.dll
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\refint\MathFunction.dll
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\MathFunction.pdb
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\MathFunction.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day5\MathFunction\obj\Debug\net7.0\ref\MathFunction.dll
