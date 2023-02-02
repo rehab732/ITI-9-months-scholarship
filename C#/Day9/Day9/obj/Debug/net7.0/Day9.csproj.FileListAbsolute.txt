@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\bin\Debug\net7.0\Day9.exe
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\bin\Debug\net7.0\Day9.deps.json
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\bin\Debug\net7.0\Day9.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\bin\Debug\net7.0\Day9.dll
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\bin\Debug\net7.0\Day9.pdb
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\Day9.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\Day9.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\Day9.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\Day9.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\Day9.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\Day9.dll
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\refint\Day9.dll
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\Day9.pdb
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\Day9.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day9\Day9\obj\Debug\net7.0\ref\Day9.dll
