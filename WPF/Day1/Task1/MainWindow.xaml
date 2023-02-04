@@ -1,0 +1,177 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="Painter" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*">
+                
+            </RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Border
+           CornerRadius="6"
+            BorderBrush="black"
+            Background="Bisque"
+            BorderThickness="4"
+            Padding="4"
+            >
+            <InkCanvas Name="InkCan"></InkCanvas>
+
+        </Border>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <GroupBox Height="100" Width="150" Header="Colors">
+                <Border
+                    BorderBrush="red"
+                    BorderThickness="2"
+                    CornerRadius="5"
+                    >
+                    <StackPanel>
+                        <RadioButton GroupName="color" Checked="Change_color">Red</RadioButton>
+                        <RadioButton GroupName="color" Checked="Change_color">Green</RadioButton>
+                        <RadioButton GroupName="color" Checked="Change_color"  >Blue</RadioButton>
+                        <RadioButton GroupName="color" Checked="Change_color">Yellow</RadioButton>
+                        <RadioButton GroupName="color" Checked="Change_color">Orange</RadioButton>
+
+                    </StackPanel>
+                </Border>
+               
+            </GroupBox>
+
+            <GroupBox Height="100" Width="150" Header="Modes">
+                <Border
+                    BorderBrush="Bisque"
+                    BorderThickness="2"
+                    CornerRadius="5"
+                    >
+                    <StackPanel>
+                        <RadioButton GroupName="mode" Checked="Change_Ink">Ink</RadioButton>
+                        <RadioButton GroupName="mode" Checked="Change_Ink">Select</RadioButton>
+                        <RadioButton GroupName="mode" Checked="Change_Ink">Erase</RadioButton>
+                        <RadioButton GroupName="mode" Checked="Change_Ink">Erase by strock</RadioButton>
+
+                    </StackPanel>
+                </Border>
+              
+            </GroupBox>
+            <GroupBox Height="100" Width="150" Header="Drawing Shape">
+                <Border
+                    BorderBrush="Black"
+                    BorderThickness="2"
+                    CornerRadius="5"
+                    >
+                    <StackPanel>
+                        <RadioButton GroupName="shape" Checked="Change_shape">Ellipse</RadioButton>
+                        <RadioButton GroupName="shape" Checked="Change_shape">Rectangle</RadioButton>
+   
+                    </StackPanel>
+                </Border>
+
+            </GroupBox>
+            
+            <GroupBox Height="100" Width="150" Header="Brush Size">
+                <Border
+                    BorderBrush="BlueViolet"
+                    BorderThickness="2"
+                    CornerRadius="5"
+                    >
+                    <StackPanel>
+                        <RadioButton GroupName="size" Checked="Change_Size">Small</RadioButton>
+                        <RadioButton GroupName="size" Checked="Change_Size">Normal</RadioButton>
+                        <RadioButton GroupName="size" Checked="Change_Size">Large</RadioButton>
+
+                    </StackPanel>
+                </Border>
+
+            </GroupBox>
+
+
+          
+                
+            
+            <StackPanel>
+                <Button
+                Width="50"
+                Height="30"
+                Background="Bisque"
+                Margin="3,40,3,3"
+                   Click="New_page"
+                >
+                    <Label>New</Label>
+                </Button>
+                <Button
+                Width="50"
+                Height="30"
+                Background="Bisque"
+                Margin="3"
+                   Click="Copy_shape"
+                    
+                
+                >
+                    <Label>Copy</Label>
+                </Button>
+                
+            </StackPanel>
+            <StackPanel>
+                <Button
+                Width="50"
+                Height="30"
+                Background="Bisque"
+                Margin="3,40,3,3"
+                   Click="Save_page"
+                    
+                >
+                    <Label>Save</Label>
+                </Button>
+                <Button
+                Width="50"
+                Height="30"
+                Background="Bisque"
+                Margin="3"
+                   Click="Cut_shape"
+                    
+                
+                >
+                    <Label>Cut</Label>
+                </Button>
+
+            </StackPanel>
+            <StackPanel>
+                <Button
+                Width="50"
+                Height="30"
+                Background="Bisque"
+                Margin="3,40,3,3"
+                   Click="Load_page"
+                    
+                >
+                    <Label>Load</Label>
+                </Button>
+                <Button
+                Width="50"
+                Height="30"
+                Background="Bisque"
+                Margin="3"
+                   Click="Paste_shape"
+                    
+                
+                >
+                    <Label>Paste</Label>
+                </Button>
+
+            </StackPanel>
+            <TextBlock TextWrapping="Wrap" Text="TextBlock"/>
+
+
+
+
+
+
+        </StackPanel>
+    </Grid>
+</Window>
