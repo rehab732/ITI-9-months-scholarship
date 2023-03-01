@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\bin\Debug\net7.0\Strategy.exe
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\bin\Debug\net7.0\Strategy.deps.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\bin\Debug\net7.0\Strategy.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\bin\Debug\net7.0\Strategy.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\Strategy.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\Strategy.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\Strategy.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Strategy\obj\Debug\net7.0\ref\Strategy.dll

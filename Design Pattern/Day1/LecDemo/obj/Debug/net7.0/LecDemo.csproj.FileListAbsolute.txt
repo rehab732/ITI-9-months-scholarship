@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\bin\Debug\net7.0\LecDemo.exe
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\bin\Debug\net7.0\LecDemo.deps.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\bin\Debug\net7.0\LecDemo.runtimeconfig.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\bin\Debug\net7.0\LecDemo.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\bin\Debug\net7.0\LecDemo.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\LecDemo.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\LecDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\LecDemo.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\LecDemo.AssemblyInfo.cs
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\LecDemo.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\LecDemo.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\refint\LecDemo.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\LecDemo.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\LecDemo.genruntimeconfig.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\LecDemo\obj\Debug\net7.0\ref\LecDemo.dll

@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\bin\Debug\net7.0\ObserverBall.exe
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\bin\Debug\net7.0\ObserverBall.deps.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\bin\Debug\net7.0\ObserverBall.runtimeconfig.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\bin\Debug\net7.0\ObserverBall.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\bin\Debug\net7.0\ObserverBall.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ObserverBall.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ObserverBall.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ObserverBall.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ObserverBall.AssemblyInfo.cs
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ObserverBall.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ObserverBall.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\refint\ObserverBall.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ObserverBall.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ObserverBall.genruntimeconfig.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\ObserverBall\obj\Debug\net7.0\ref\ObserverBall.dll

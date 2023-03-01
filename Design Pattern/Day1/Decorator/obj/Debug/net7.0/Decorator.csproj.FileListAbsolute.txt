@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\bin\Debug\net7.0\Decorator.exe
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\bin\Debug\net7.0\Decorator.deps.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\bin\Debug\net7.0\Decorator.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\bin\Debug\net7.0\Decorator.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\Decorator.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\Decorator.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\Decorator.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Decorator\obj\Debug\net7.0\ref\Decorator.dll

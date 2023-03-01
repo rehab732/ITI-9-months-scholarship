@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\Builder.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\bin\Debug\net7.0\Builder.exe
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\bin\Debug\net7.0\Builder.deps.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\bin\Debug\net7.0\Builder.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\bin\Debug\net7.0\Builder.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\Builder.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\refint\Builder.dll
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\Builder.pdb
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+E:\ITI\SD Mobile\DesignPattern\Tasks\Day1\Builder\obj\Debug\net7.0\ref\Builder.dll
