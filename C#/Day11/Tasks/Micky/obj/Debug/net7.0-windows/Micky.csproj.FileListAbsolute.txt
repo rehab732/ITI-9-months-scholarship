@@ -1,0 +1,17 @@
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\bin\Debug\net7.0-windows\Micky.exe
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\bin\Debug\net7.0-windows\Micky.deps.json
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\bin\Debug\net7.0-windows\Micky.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\bin\Debug\net7.0-windows\Micky.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\bin\Debug\net7.0-windows\Micky.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.Form1.resources
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.csproj.GenerateResource.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\refint\Micky.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\Micky.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Micky\obj\Debug\net7.0-windows\ref\Micky.dll

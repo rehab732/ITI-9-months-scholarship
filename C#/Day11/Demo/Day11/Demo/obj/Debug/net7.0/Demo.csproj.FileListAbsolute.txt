@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\bin\Debug\net7.0\Demo.exe
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\bin\Debug\net7.0\Demo.deps.json
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\bin\Debug\net7.0\Demo.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\bin\Debug\net7.0\Demo.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\bin\Debug\net7.0\Demo.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\Demo.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\refint\Demo.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\Demo.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\Demo.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Demo\obj\Debug\net7.0\ref\Demo.dll

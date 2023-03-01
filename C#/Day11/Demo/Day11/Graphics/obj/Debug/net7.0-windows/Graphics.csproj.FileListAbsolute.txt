@@ -1,0 +1,17 @@
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Graphics.exe
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Graphics.deps.json
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Graphics.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Graphics.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Graphics.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.Form1.resources
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.csproj.GenerateResource.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\refint\Graphics.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\ref\Graphics.dll

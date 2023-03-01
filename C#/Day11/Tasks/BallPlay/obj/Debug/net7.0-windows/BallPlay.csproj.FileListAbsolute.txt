@@ -1,0 +1,17 @@
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\bin\Debug\net7.0-windows\BallPlay.exe
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\bin\Debug\net7.0-windows\BallPlay.deps.json
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\bin\Debug\net7.0-windows\BallPlay.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\bin\Debug\net7.0-windows\BallPlay.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\bin\Debug\net7.0-windows\BallPlay.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.Form1.resources
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.csproj.GenerateResource.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\refint\BallPlay.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\BallPlay.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\BallPlay\obj\Debug\net7.0-windows\ref\BallPlay.dll

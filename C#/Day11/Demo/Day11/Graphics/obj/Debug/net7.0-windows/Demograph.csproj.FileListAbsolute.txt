@@ -1,0 +1,17 @@
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Demograph.exe
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Demograph.deps.json
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Demograph.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Demograph.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\bin\Debug\net7.0-windows\Demograph.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Graphics.Form1.resources
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.csproj.GenerateResource.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\refint\Demograph.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\Demograph.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Graphics\obj\Debug\net7.0-windows\ref\Demograph.dll

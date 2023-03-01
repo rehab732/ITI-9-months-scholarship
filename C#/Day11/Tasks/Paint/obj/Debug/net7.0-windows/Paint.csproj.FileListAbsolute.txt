@@ -1,0 +1,17 @@
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\bin\Debug\net7.0-windows\Paint.exe
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\bin\Debug\net7.0-windows\Paint.deps.json
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\bin\Debug\net7.0-windows\Paint.runtimeconfig.json
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\bin\Debug\net7.0-windows\Paint.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\bin\Debug\net7.0-windows\Paint.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.Form1.resources
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.csproj.GenerateResource.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\refint\Paint.dll
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.pdb
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\Paint.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\C#\Day11\Tasks\Paint\obj\Debug\net7.0-windows\ref\Paint.dll
