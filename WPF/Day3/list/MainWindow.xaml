@@ -1,0 +1,40 @@
+﻿<Window x:Class="list.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:stud="clr-namespace:list"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="back" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="DeepPink" Offset=".25"></GradientStop>
+            <GradientStop Color="HotPink" Offset=".5"></GradientStop>
+            <GradientStop Color="LightPink" Offset=".75"></GradientStop>
+
+        </LinearGradientBrush>
+        <stud:Student x:Key="Stud1"
+                      Id="10"
+                      Name="Rehab"
+                      Salary="20000"
+                      Description="Hello World"
+                      Image="/gws.jpg"
+                      ></stud:Student>
+    </Window.Resources>
+    <DockPanel LastChildFill="False">
+        <ListBox Name="list" DockPanel.Dock="Left" Background="{StaticResource ResourceKey=back}">
+
+        </ListBox>
+        <StackPanel
+
+            DataContext="{Binding ElementName=list,Path=SelectedItem}">
+            
+            <Image Width="100" Height="100" Source="{Binding Image}" />
+            <Label Content="{Binding Id}"/>
+            <Label Content="{Binding Name}"/>
+
+            <Label Content="{Binding Salary}"/>
+            <Label Content="{Binding Description}"/>
+        </StackPanel>
+    </DockPanel>
+</Window>
