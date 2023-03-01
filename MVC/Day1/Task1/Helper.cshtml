@@ -1,0 +1,32 @@
+﻿@{
+    var chartData = new Chart(width: 600, height: 400)
+        .AddTitle("Products Ranges")
+        .AddSeries(
+            name: "Sales",
+            chartType: "Bar",
+            xValue: new[] { "North", "South", "East", "West" },
+            yValues: new[] { "25000", "10000", "15000", "20000" })
+        .GetBytes("png");
+}
+
+<img src="data:image/png;base64,@Convert.ToBase64String(chartData)" />
+
+
+
+
+@{ 
+    List<Task1.Product> p = new List<Task1.Product>()
+    {
+        new Task1.Product(){Id=1,Name="Rehab" ,salary=1000},
+        new Task1.Product(){Id=10,Name="Zaki" ,salary=1000},
+        new Task1.Product(){Id=5,Name="Basma" ,salary=1000},
+        new Task1.Product(){Id=8,Name="Mahmoud" ,salary=1000},
+        new Task1.Product(){Id=15,Name="Menna" ,salary=1000}
+
+    };
+
+}
+@{ 
+    WebGrid grd = new WebGrid(p);
+}
+@grd.GetHtml()

@@ -1,0 +1,88 @@
+﻿@{
+    var imagepath = "";
+    var back = "";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+    <div style="display:flex">
+        <div style="display:inline;background-color:wheat;width:50%;height:50%">
+            <form>
+                <h3>Choose Backgraound Image Number :</h3>
+                <select name="imageList">
+                    <option value="0.jpg">number 0</option>
+                    <option value="1.jpg">number 1</option>
+                    <option value="2.jpg">number 2</option>
+                    <option value="3.jpg">number 3</option>
+                    <option value="4.jpg">number 4</option>
+                    <option value="5.jpg">number 5</option>
+                    <option value="6.jpg">number 6</option>
+                    <option value="7.jpg">number 7</option>
+                    <option value="8.jpg">number 8</option>
+                    <option value="9.jpg">number 9</option>
+                    <option value="10.jpg">number 10</option>
+                    <option value="11.jpg">number 11</option>
+                </select>
+                <h3>Choose Font Color :</h3>
+                <select name="colorlist">
+                    <option value="red">Red</option>
+                    <option value="green">Green</option>
+                    <option value="blue">Blue</option>
+                    <option value="yellow">Yellow</option>
+                    <option value="black">Black</option>
+
+                </select>
+                <hr />
+                <h3>Choose Greeting Type: </h3>
+                <input type="radio" name="greet" value="bd.jpg" />Birthday<br />
+                <input type="radio" name="greet" value="well.gif" />Get Well Soon<br />
+                <input type="radio" name="greet" value="val.bmp" />Valantine<br />
+                <input type="radio" name="greet" value="congrats.gif" />Congrates<br /><br />
+                <br />
+                <input type="checkbox" name="greeting"  />Add The Pictuer
+                <h3>Enter The Greeting message here : </h3>
+                <textarea name="area"></textarea>
+                <br />
+                <br />
+                <br />
+                <br />
+                <input type="submit" value="Preview" />
+                <br />
+                <br />
+                <br />
+                <br /> <br />
+                <br />
+                <br />
+                <br /> <br />
+             
+              
+            </form>
+        </div>
+       
+        <div style=" background-image: url(/images/@Request["imageList"]) ; width: 750px; height:700px;display:flex;justify-content:center;align-items:center">
+            @if (Request["greeting"] == "on")
+            {
+                <div style="display:flex">
+
+                    
+                        <img src="~/images/@Request["greet"]" style="width:200px;height:200px; display:block;justify-content:end" />
+                    <br />
+                    </div>
+                    <div >
+                        <h2 style="color:@Request["colorlist"];display:block">@Request["area"]</h2>
+
+                </div>
+
+            }
+
+
+
+        </div>
+    </div>
+
+</body>
+</html>
