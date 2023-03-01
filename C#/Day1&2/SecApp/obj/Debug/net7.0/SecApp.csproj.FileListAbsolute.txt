@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\bin\Debug\net7.0\SecApp.exe
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\bin\Debug\net7.0\SecApp.deps.json
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\bin\Debug\net7.0\SecApp.runtimeconfig.json
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\bin\Debug\net7.0\SecApp.dll
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\bin\Debug\net7.0\SecApp.pdb
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\SecApp.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\SecApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\SecApp.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\SecApp.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\SecApp.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\SecApp.dll
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\refint\SecApp.dll
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\SecApp.pdb
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\SecApp.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\projects\project1\SecApp\obj\Debug\net7.0\ref\SecApp.dll

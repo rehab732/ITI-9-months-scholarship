@@ -1,0 +1,12 @@
+E:\ITI\SD Mobile\C#\projects\project1\common\bin\Debug\net7.0\common.deps.json
+E:\ITI\SD Mobile\C#\projects\project1\common\bin\Debug\net7.0\common.dll
+E:\ITI\SD Mobile\C#\projects\project1\common\bin\Debug\net7.0\common.pdb
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\common.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\common.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\common.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\common.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\common.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\common.dll
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\refint\common.dll
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\common.pdb
+E:\ITI\SD Mobile\C#\projects\project1\common\obj\Debug\net7.0\ref\common.dll

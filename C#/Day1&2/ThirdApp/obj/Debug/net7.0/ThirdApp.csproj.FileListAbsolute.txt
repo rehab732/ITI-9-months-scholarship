@@ -1,0 +1,15 @@
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\bin\Debug\net7.0\ThirdApp.exe
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\bin\Debug\net7.0\ThirdApp.deps.json
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\bin\Debug\net7.0\ThirdApp.runtimeconfig.json
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\bin\Debug\net7.0\ThirdApp.dll
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\bin\Debug\net7.0\ThirdApp.pdb
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ThirdApp.csproj.AssemblyReference.cache
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ThirdApp.AssemblyInfoInputs.cache
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ThirdApp.AssemblyInfo.cs
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ThirdApp.csproj.CoreCompileInputs.cache
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ThirdApp.dll
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\refint\ThirdApp.dll
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ThirdApp.pdb
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ThirdApp.genruntimeconfig.cache
+E:\ITI\SD Mobile\C#\projects\project1\ThirdApp\obj\Debug\net7.0\ref\ThirdApp.dll
