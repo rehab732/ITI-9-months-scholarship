@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667072221 source:e:\iti\c\day5\bouns\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666862179 source:e:\iti\c\day4\switch\main.c
+	<stdio.h>
+	<windows.h>
+

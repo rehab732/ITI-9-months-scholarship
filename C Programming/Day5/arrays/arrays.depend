@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667221340 source:e:\iti\c\day5\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
