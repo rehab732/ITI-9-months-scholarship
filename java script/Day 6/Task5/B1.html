@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ASCII</title>
+    <style>
+       h1 {
+    text-align: center;
+    text-shadow: 0px 0px 5px orange, 0px -5px 5px red;
+}
+    </style>
+</head>
+
+<body>
+    <h1>Press Any Key</h1>
+    <script>
+        window.addEventListener("keydown", function (pressedEvent) {
+
+            if (pressedEvent.key.length == 1) {
+                alert("Ascii of button you pressed  " +pressedEvent.key + " is " + pressedEvent.key.charCodeAt(0));
+            } else {
+                alert("You Pressed : " + pressedEvent.key);
+            }
+        });
+    </script>
+</body>
+
+</html>

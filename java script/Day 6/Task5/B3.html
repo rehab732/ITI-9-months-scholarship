@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="B3.css">
+    <title>FORM</title>
+
+</head>
+
+<body>
+   
+
+    <div class="container">
+
+
+        <form>
+
+            <div class="item">
+                <label for="name"><b>Name</b></label>
+                <input type="text" placeholder="Enter Your Name" name="name" id="name">
+            </div>
+            <div class="item">
+                <label for="pass"><b>Password</b></label>
+                <input type="password" placeholder="Enter Your Password" name="pass" id="pass">
+            </div>
+
+            <input id="sub" type="button" class="btn" value="submit">
+        </form>
+    </div>
+    <h1 id="txt">Hello , Appear Allert every 3 sec until enter data </h1>
+
+    <script>
+  
+inputs = document.querySelectorAll("input");
+var newEvent = new Event("timeout");
+document.addEventListener("timeout", function () {
+    console.log(inputs[0].value=="");
+    var timeout;
+     {
+
+        
+        timeout = setInterval(function () {
+            if (inputs[0].value == "" && inputs[1].value == "") {
+                alert("Enter Data");
+            }
+            else {
+                document.getElementById("txt").innerText = "Good Job Ra7oob :)"
+                document.getElementById("txt").style.color="brown"
+                clearInterval(timeout)
+            }
+            }, 3000);
+        
+       
+            
+        
+    }
+    
+});
+
+document.dispatchEvent(newEvent);
+
+
+
+    </script>
+</body>
+
+</html>

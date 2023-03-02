@@ -1,0 +1,29 @@
+*{
+    background-color: bisque;
+    text-align: center;
+  
+}
+#div1{
+    border: 3px solid brown;
+    width:530px;
+    height: 30rem;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+#div1 > div{
+    width:30px;
+    position: absolute;
+   
+}
+.b{
+            width:150px;
+            height:50px;
+            font-size:30px;
+            color:wheat;
+            border:3px;
+            background-color:brown;
+            border-radius: 25px;
+          
+}
