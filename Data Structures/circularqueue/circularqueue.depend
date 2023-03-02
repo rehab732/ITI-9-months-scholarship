@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670466378 source:e:\iti\sd mobile\ds\circularqueue\main.cpp
+	<iostream>
+	<cassert>
+
