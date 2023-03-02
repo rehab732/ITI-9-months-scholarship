@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668240864 source:e:\iti\c++\day6\shapecolor\main.cpp
+	<bits/stdc++.h>
+	"graphics.h"
+

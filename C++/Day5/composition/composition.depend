@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668240133 source:e:\iti\c++\day5\composition\main.cpp
+	<bits/stdc++.h>
+	"graphics.h"
+
