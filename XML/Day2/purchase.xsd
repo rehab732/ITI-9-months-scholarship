@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+ 
+
+ <xs:simpleType name="mystr">
+		<xs:list itemType="xs:string"></xs:list>
+	</xs:simpleType>
+	
+ <xs:element name="purchaseOrder">
+		<xs:complexType>
+				<xs:group ref="purchaseOrderData"/>
+				<xs:attribute name="orderDate" type="mystr"></xs:attribute>
+		</xs:complexType>
+		
+	</xs:element>
+	
+
+	
+	
+	<xs:group name="listItem">
+			<xs:sequence>
+				<xs:element name="productName" type="xs:string"/>
+				<xs:element name="quantity" type="xs:integer"/>
+				<xs:element name="USPrice" type="xs:decimal"/>
+			</xs:sequence>
+	</xs:group>
+	
+		<xs:complexType name="itemlistt">
+				<xs:sequence>
+					<xs:element name="item" minOccurs="1" maxOccurs="unbounded">
+						<xs:complexType>
+							<xs:group ref="listItem"/>
+							<xs:attribute name="partNum" type="xs:string"/>
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+			</xs:complexType>
+	
+		<xs:element name="items" type="itemlistt"/>
+			
+		
+		
+	<xs:group name="listSBillTo">
+			<xs:sequence>
+				<xs:element name="name" type="xs:string"/>
+				<xs:element name="street" type="xs:string"/>
+				<xs:element name="city" type="xs:string"/>
+				<xs:element name="state" type="xs:string"/>
+				<xs:element name="zip" type="xs:string"/>
+			</xs:sequence>
+	</xs:group>
+	
+	<xs:element name="billTo" >
+			<xs:complexType>
+				<xs:group ref="listSBillTo"/>
+				<xs:attribute name="country" type="xs:string"/>
+			</xs:complexType>
+		</xs:element>
+		
+		<xs:element name="shipTo" >
+			<xs:complexType>
+				<xs:group ref="listSBillTo"/>
+				<xs:attribute name="country" type="xs:string"/>
+			</xs:complexType>
+		</xs:element>
+		
+		
+		
+		<xs:element name="ship_date" type="xs:string"/>
+		<xs:element name="ship_method">
+			<xs:complexType>
+				<xs:attribute name="type" type="xs:string"/>
+			</xs:complexType>
+		</xs:element>
+		
+		<xs:group name="purchaseOrderData">
+			<xs:sequence>
+				<xs:element ref="shipTo"/>
+				<xs:element ref="billTo"/>
+				<xs:element ref="items"/>
+				<xs:element ref="ship_date"/>
+				<xs:element ref="ship_method"/>
+			</xs:sequence>
+	</xs:group>
+
+
+</xs:schema>
