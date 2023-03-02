@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zoom</title>
+        <script src="https://unpkg.com/js-image-zoom@0.7.0/js-image-zoom.js" type="application/javascript"></script>
+        
+        
+    </head>
+    <body>
+        <div id="container">
+            <img id="img" src="../Images/4.jpg">
+        </div>
+        
+
+      
+      <script>
+
+        var options1 = {
+            width: 200,
+            zoomWidth: 100,
+            offset: {vertical: 0, horizontal: 0},
+            scale:0.5
+        };
+        
+     
+        new ImageZoom(document.getElementById("container"), options1);
+        
+        </script>
+    </body>
+</html>

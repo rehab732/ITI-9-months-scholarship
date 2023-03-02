@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #car {
+        position: absolute;
+      }
+    </style>
+    <script src="../Libraries/JqueryDev.js"></script>
+    <script src="../Libraries/jquery-ui.js"></script>
+    <script>
+      $(function () {
+        $("#car").animate({ left: "700px" }, 3000, "linear");
+        setInterval(function () {
+          $("#pid").text(
+            `<img src='12.gif' style='left: ${$("#car").css("left")}'>`
+          );
+        }, 100);
+      });
+    </script>
+  </head>
+  <body>
+    <div>
+      <img id="car" src="../Images/12.gif" />
+      <br />
+      <br />
+      <p id="pid"></p>
+    </div>
+  </body>
+</html>

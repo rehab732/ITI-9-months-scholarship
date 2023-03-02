@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="style.css">
+      <script src="./Libraries/query.js"></script>
+      <script src="java.js"></script>
+    </head>
+    <body>
+        <!--Buttons-->
+        <div id="div1">
+         <input class="in" id="about" type="button" value="About" >
+         <input  class="in" id="gal" type="button" value="Gallery" >
+         <input  class="in" id="ser" type="button" value="Services" >
+         <div id="dropdown" class="dropdown-content">
+            <a href="#about">item #1</a>
+            <a href="#gal">item #2</a>
+            <a href="#ser">item #3</a>
+         </div>
+         <input  class="in" id="com" type="button" value="Complain" >
+        </div>
+        <!--About-->
+        <div id="aboutt">
+            <p>Story About snow man</p>
+
+        </div>
+        <!--Gallery-->
+        <div id="div">
+            <img id="left" src="./Images/left.png">
+            <img id="image" src="/Images/1.jpg">
+            <img id="right" src="/Images/right.png">
+        </div>
+        <!--Complain-->
+        <div id="divv" class="comm">
+            <form action="index.html">
+                <br>
+                <label for="name">Name</label>
+                <input id="name" type="text">
+                <br>
+                <br>
+                <label for="email">Email</label>
+                <input id="email" type="text">
+                <br>
+                <br>
+                <label for="phone">Phone</label>
+                <input id="phone" type="text">
+                <br><br>
+                <label>Complain</label>
+                <br>
+                <textarea id="complain" cols="30" rows="5"></textarea>
+                <br>
+                <input class="in" type="button" value="Send" id="send">
+            </form>
+        </div>
+        <!--RES COM-->
+        <div id="divv" class="res">
+            <p><b>Your Complain is :</b><span id="scom"></span></p>
+            <p><b>Your Name is :</b><span id="sname"></span></p>
+            <p><b>Your Email is :</b><span id="semail"></span></p>
+            <p><b>Your phone is :</b><span id="spho"></span></p>
+            <input type="button" value="Back" class="in" id="back">
+
+        </div>
+
+    </body>
+</html>
