@@ -1,0 +1,45 @@
+Software Development Life Cycle (SDLC):
+========================================
+1. Analysis (User problems & Requirements Gathering)
+
+2. Planning
+
+3. Design:
+	- Architechtural Design (Solution)
+	- Database Design
+	- Interface Design
+
+4. Implemetation (Developement)
+
+5. Testing: TDD
+
+6. Production (Deployment)
+
+7. Maintenance:
+	- Fix Errors 
+	- Add new features
+	- New Tech. to cope with change
+
+8. Documentation
+
+---------------------------------------------------------------------
+
+Assignments:
+=============
+
+Done 1) Book Case Studies: (Start at Page 17 at Book)
+
+*** 3 Case studies from book, for each one you have to determine:
+- Product Type (Generic/ Customized)
+- Application type (web/ entertainment/ embedded/ .... )
+- Development Process Model (Water fall/ Prototype/....) 
+
+Done 2) For Each Model from the following: (Category , How it works? , Pros & Cons )
+	- Spiral-Model 
+	- V-Model
+
+Done 3) CRM & ERP
+
+
+------------------------------------------------------------------
+
