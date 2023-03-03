@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Strategy\\Strategy.csproj",
+      "projectUniqueName": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Strategy\\Strategy.csproj",
       "projectName": "Strategy",
-      "projectPath": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Strategy\\Strategy.csproj",
+      "projectPath": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Strategy\\Strategy.csproj",
       "packagesPath": "C:\\Users\\Bebo\\.nuget\\packages\\",
-      "outputPath": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Strategy\\obj\\",
+      "outputPath": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Builder\\Builder.csproj": {}
+    "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Builder\\Builder.csproj": {
+    "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Builder\\Builder.csproj",
+        "projectUniqueName": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Builder\\Builder.csproj",
+        "projectPath": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\Bebo\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Builder\\obj\\",
+        "outputPath": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

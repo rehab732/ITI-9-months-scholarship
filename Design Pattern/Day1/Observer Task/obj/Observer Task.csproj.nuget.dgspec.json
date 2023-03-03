@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Observer Task\\Observer Task.csproj": {}
+    "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Observer Task\\Observer Task.csproj": {}
   },
   "projects": {
-    "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Observer Task\\Observer Task.csproj": {
+    "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Observer Task\\Observer Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Observer Task\\Observer Task.csproj",
+        "projectUniqueName": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Observer Task\\Observer Task.csproj",
         "projectName": "Observer Task",
-        "projectPath": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Observer Task\\Observer Task.csproj",
+        "projectPath": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Observer Task\\Observer Task.csproj",
         "packagesPath": "C:\\Users\\Bebo\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\Observer Task\\obj\\",
+        "outputPath": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\Observer Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

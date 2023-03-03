@@ -1,0 +1,15 @@
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\Composite pattern.csproj.AssemblyReference.cache
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\Composite pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\Composite pattern.AssemblyInfoInputs.cache
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\Composite pattern.AssemblyInfo.cs
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\Composite pattern.csproj.CoreCompileInputs.cache
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\bin\Debug\net7.0\Composite pattern.exe
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\bin\Debug\net7.0\Composite pattern.deps.json
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\bin\Debug\net7.0\Composite pattern.runtimeconfig.json
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\bin\Debug\net7.0\Composite pattern.dll
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\bin\Debug\net7.0\Composite pattern.pdb
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\Composite pattern.dll
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\refint\Composite pattern.dll
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\Composite pattern.pdb
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\Composite pattern.genruntimeconfig.cache
+E:\ITI\ITI-9-months-scholarship\Design Pattern\Pattern Video\Composite pattern\Composite pattern\obj\Debug\net7.0\ref\Composite pattern.dll

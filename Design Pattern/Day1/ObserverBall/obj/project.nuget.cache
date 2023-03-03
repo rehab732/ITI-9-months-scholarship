@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AiMBB0j/An3GNZSjaH37RC0k4iB5ZUVKXN1S3BQu+qWMQAtUFi2+QNRu1YpAc0LcCSlXHQZzaxj40do1NMX2mw==",
+  "dgSpecHash": "uSpzivtfKAYztcKVMb1aFtCkE5AJ1lSQG/d812Mcjqao0kAyStXCB/G1BJouu1pTf51ZaGMPAS2/maaYqVZfpw==",
   "success": true,
-  "projectFilePath": "E:\\ITI\\SD Mobile\\DesignPattern\\Tasks\\Day1\\ObserverBall\\ObserverBall.csproj",
+  "projectFilePath": "E:\\ITI\\ITI-9-months-scholarship\\Design Pattern\\Day1\\ObserverBall\\ObserverBall.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

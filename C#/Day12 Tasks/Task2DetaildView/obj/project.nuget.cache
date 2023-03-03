@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "geB/3zsTIMiIVZMT9JN85rmT4Jery0iWQhKrI3i/n1MtlYp/+HwikrfR8cdykMg0s3fip51kegMpNfot7Y0+hw==",
+  "dgSpecHash": "EqQrtWWMLJtB/sKgh2IXUZ5JTlkau0nPndywS0vKRHIIKAoq9UBQGeSUxiFR5ZQc8O0Xu9S2yT+deKkK1/ez4A==",
   "success": true,
-  "projectFilePath": "E:\\ITI\\SD Mobile\\C#\\C#\\Day12 Tasks\\Task2DetaildView\\Task2DetaildView.csproj",
+  "projectFilePath": "E:\\ITI\\ITI-9-months-scholarship\\C#\\Day12 Tasks\\Task2DetaildView\\Task2DetaildView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bebo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Bebo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
