@@ -1,5 +1,6 @@
 using Business_Layer;
 using Business_Layer.EntityList;
+using System.Diagnostics;
 
 namespace Tiers
 {
@@ -14,6 +15,14 @@ namespace Tiers
         {
             prolist=ProductManager.SelectAllProducts();
             grdpro.DataSource = prolist;
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            foreach(var item in prolist)
+            {
+                Trace.WriteLine(item.State);
+            }
         }
     }
 }

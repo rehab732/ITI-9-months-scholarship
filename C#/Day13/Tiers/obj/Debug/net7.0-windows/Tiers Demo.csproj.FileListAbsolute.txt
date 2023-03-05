@@ -46,3 +46,4 @@ E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers De
 E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\ref\Tiers Demo.dll
 E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Tiers Demo.dll.config
 E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers_Demo.UpdateProductForm.resources
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers_Demo.BindForm.resources

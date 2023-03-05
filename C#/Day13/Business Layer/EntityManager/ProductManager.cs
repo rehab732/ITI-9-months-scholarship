@@ -91,6 +91,8 @@ namespace Business_Layer
                     product.UnitPrice= tempdec;
                 if (bool.TryParse(row["Discontinued"]?.ToString()??"-1" , out bool tempbool))
                     product.Discontinued = tempbool;
+
+                product.State = EntityState.UnChanged;
                     
             }
             catch

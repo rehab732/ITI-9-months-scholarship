@@ -6,10 +6,22 @@ using System.Threading.Tasks;
 
 namespace Business_Layer.Entity
 {
-    public class Product
+    public class Product : Entity_Base
     {
-		public int ProductID { get; set; }
-		public string ProductName { get; set; }
+        public int ProductID { get; set; }
+        public string productName;
+        public string ProductName {
+            get => productName;
+            set
+            {
+             if(value!=productName)
+                {
+                    if(this.State!=EntityState.Added)
+                        this.State = EntityState.Changed;
+                    productName = value;
+                }
+            }
+            }
 		public Nullable<int> SupplierID { get; set; }
         public Nullable<int> CategoryID { get; set; }
         public string QuantityPerUnit { get; set; }
