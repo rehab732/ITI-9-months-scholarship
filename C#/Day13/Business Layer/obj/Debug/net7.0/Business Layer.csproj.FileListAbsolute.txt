@@ -1,0 +1,16 @@
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\bin\Debug\net7.0\Business Layer.deps.json
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\bin\Debug\net7.0\Business Layer.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\bin\Debug\net7.0\Business Layer.pdb
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\bin\Debug\net7.0\Data Access Layer.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\bin\Debug\net7.0\Data Access Layer.pdb
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\bin\Debug\net7.0\Data Access Layer.dll.config
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\Business Layer.csproj.AssemblyReference.cache
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\Business Layer.AssemblyInfoInputs.cache
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\Business Layer.AssemblyInfo.cs
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\Business Layer.csproj.CoreCompileInputs.cache
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\Business Layer.csproj.CopyComplete
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\Business Layer.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\refint\Business Layer.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\Business Layer.pdb
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Business Layer\obj\Debug\net7.0\ref\Business Layer.dll

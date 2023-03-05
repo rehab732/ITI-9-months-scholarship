@@ -1,0 +1,47 @@
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Tiers Demo.exe
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Tiers Demo.deps.json
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Tiers Demo.runtimeconfig.json
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Tiers Demo.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Tiers Demo.pdb
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Business Layer.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Data Access Layer.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Business Layer.pdb
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Data Access Layer.pdb
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Data Access Layer.dll.config
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.csproj.AssemblyReference.cache
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers.Form1.resources
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.csproj.GenerateResource.cache
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.AssemblyInfoInputs.cache
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.AssemblyInfo.cs
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.csproj.CoreCompileInputs.cache
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.csproj.CopyComplete
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\refint\Tiers Demo.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.pdb
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\Tiers Demo.genruntimeconfig.cache
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\obj\Debug\net7.0-windows\ref\Tiers Demo.dll
+E:\ITI\ITI-9-months-scholarship\C#\Day13\Tiers\bin\Debug\net7.0-windows\Tiers Demo.dll.config
