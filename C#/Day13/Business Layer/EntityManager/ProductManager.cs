@@ -14,6 +14,20 @@ namespace Business_Layer
     {
         static DBManager manager = new();
 
+        public static bool  UpdateProductNameByProductID(int proid,string proName)
+        {
+            try
+            {
+                Dictionary<string, object> paramDic = new Dictionary<string, object>() { ["@ProductID"] = proid, ["@ProductName"]=proName};
+                return manager.ExecuteNonQuery("UpdateProductNameByProductID",paramDic)>0;
+
+            }
+            catch
+            {
+
+            }
+            return false;
+        }
         public static ProductList SelectAllProducts()
         {
             try

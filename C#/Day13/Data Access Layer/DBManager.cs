@@ -50,6 +50,29 @@ namespace Data_Access_Layer
                 sqlcn.Close();
             }
         }
+        public int ExecuteNonQuery(string spName,Dictionary<string ,object> paramlist)
+        {
+            try
+            {
+
+
+                sqlcmd.Parameters.Clear();
+                foreach(var item in paramlist)
+                     sqlcmd.Parameters.Add(new SqlParameter(item.Key,item.Value));
+                sqlcmd.CommandText = spName;
+                if (sqlcn.State == ConnectionState.Closed)
+                    sqlcn.Open();
+                return sqlcmd.ExecuteNonQuery();
+            }
+            catch
+            {
+                return -1;
+            }
+            finally
+            {
+                sqlcn.Close();
+            }
+        }
         public object ExecuteScalar(string spName)
         {
             try
@@ -71,6 +94,29 @@ namespace Data_Access_Layer
                 sqlcn.Close();
             }
         }
+        public object ExecuteScalar(string spName, Dictionary<string, object> paramlist)
+        {
+            try
+            {
+
+
+                sqlcmd.Parameters.Clear();
+                foreach (var item in paramlist)
+                    sqlcmd.Parameters.Add(new SqlParameter(item.Key, item.Value));
+                sqlcmd.CommandText = spName;
+                if (sqlcn.State == ConnectionState.Closed)
+                    sqlcn.Open();
+                return sqlcmd.ExecuteScalar();
+            }
+            catch
+            {
+                return new();
+            }
+            finally
+            {
+                sqlcn.Close();
+            }
+        }
         public DataTable ExecuteDataTable(string spName)
         {
             try
@@ -78,6 +124,25 @@ namespace Data_Access_Layer
                 data.Clear();
                 sqlcmd.Parameters.Clear();
                 sqlcmd.CommandText= spName;
+                sqlAd.Fill(data);
+                return data;
+
+
+            }
+            catch
+            {
+                return new();
+            }
+        }
+        public DataTable ExecuteDataTable(string spName, Dictionary<string, object> paramlist)
+        {
+            try
+            {
+                data.Clear();
+                sqlcmd.Parameters.Clear();
+                foreach (var item in paramlist)
+                    sqlcmd.Parameters.Add(new SqlParameter(item.Key, item.Value));
+                sqlcmd.CommandText = spName;
                 sqlAd.Fill(data);
                 return data;
 
