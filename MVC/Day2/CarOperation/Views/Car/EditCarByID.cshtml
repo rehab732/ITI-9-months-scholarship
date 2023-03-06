@@ -1,0 +1,17 @@
+﻿@using CarOperation.Models;
+@{
+    ViewBag.Title = "EditCarByID";
+    Car edit = ViewBag.edit;
+}
+
+<h2 style="color:red;font:bold">Edit Car By ID</h2>
+<form method="post" action="/Car/SaveCarData">
+    <input type="text" name="id" value="@edit.Num" />
+    <input type="text" name="model" value="@edit.Model" />
+    <input type="text" name="color" value="@edit.Color" />
+    <input type="text" name="manfacture" value="@edit.Manfacture" />
+
+    <input type="submit" value="Save Data" />
+
+</form>
+
