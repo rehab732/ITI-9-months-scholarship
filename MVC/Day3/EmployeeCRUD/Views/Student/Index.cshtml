@@ -1,0 +1,70 @@
+﻿
+@model IEnumerable<EmployeeCRUD.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>All Students In ITI </h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<form method="post">
+    @Html.DropDownList("Dept_Id", new SelectList(ViewBag.department, "Dept_Id", "Dept_Name"), htmlAttributes: new { @class = "form-control" })
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.St_Fname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.St_Lname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.St_Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.St_Age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Department.Dept_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Student2.St_Fname)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.St_Fname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.St_Lname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.St_Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.St_Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department.Dept_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student2.St_Fname)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.St_Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.St_Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.St_Id })
+            </td>
+        </tr>
+    }
+
+</table>

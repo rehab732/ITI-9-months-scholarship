@@ -1,0 +1,66 @@
+﻿@model EmployeeCRUD.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.St_Fname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.St_Fname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.St_Lname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.St_Lname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.St_Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.St_Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.St_Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.St_Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Department.Dept_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Department.Dept_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Student2.St_Fname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Student2.St_Fname)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.St_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

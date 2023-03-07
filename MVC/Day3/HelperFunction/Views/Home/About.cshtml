@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Test InlineHelper Function .</p>
+@helper OrderedList(string[] sublist)
+    {
+       <ol class="list-group list-group-flush">
+           @foreach(var item in sublist)
+    {
+        <li class="list-group-item">@item</li>
+    }
+       </ol>
+    }
+
+@{ 
+    string[] subjects = new string[] { "OOP", "MVC", "C#", "DB", "Network", "DP" };
+
+}
+<div >
+    Subjects List:@OrderedList(subjects)
+
+</div>
