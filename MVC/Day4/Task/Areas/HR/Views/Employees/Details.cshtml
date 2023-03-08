@@ -1,0 +1,82 @@
+﻿@model Task.Areas.HR.Data.Employee
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpUsername)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpUsername)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpGender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpGender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpJoinDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpJoinDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpPhoneNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpPhoneNumber)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Empid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
