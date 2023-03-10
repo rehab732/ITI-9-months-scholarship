@@ -1,0 +1,241 @@
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\frontend_reservation.mdf
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\frontend_reservation_log.ldf
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\login_manager.mdf
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\login_manager_log.ldf
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\Hotel_Manager.exe.config
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\Hotel_Manager.exe.manifest
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\Hotel_Manager.application
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\Hotel_Manager.exe
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\Hotel_Manager.pdb
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\MetroFramework.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\RestSharp.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\Twilio.Api.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\RestSharp.xml
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\Twilio.Api.pdb
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\bin\Debug\Twilio.Api.xml
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\HotelManagement.csprojResolveAssemblyReference.cache
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.FinalizePayment.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.FoodMenu.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.Kitchen.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.License.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.login.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.Frontend.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.Properties.Resources.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\HotelManagement.csproj.GenerateResource.Cache
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.exe.manifest
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.application
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.exe
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\Hotel_Manager\obj\Debug\Hotel_Manager.pdb
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\Hotel_Manager.exe.config
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.exe
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.pdb
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\frontend_reservation.mdf
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\frontend_reservation_log.ldf
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\login_manager.mdf
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\login_manager_log.ldf
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\Hotel_Manager.exe.manifest
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\Hotel_Manager.application
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\Hotel_Manager.exe
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\Hotel_Manager.pdb
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\MetroFramework.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\RestSharp.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\Twilio.Api.dll
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\RestSharp.xml
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\Twilio.Api.pdb
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\bin\Debug\Twilio.Api.xml
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\HotelManagement.csprojResolveAssemblyReference.cache
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.FinalizePayment.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.FoodMenu.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.Kitchen.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.License.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.Login.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.Frontend.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.Properties.Resources.resources
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.Cache
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.exe.manifest
+C:\Users\Nazim\Documents\GitHub\secret-shame-csharp\HotelManagement\obj\Debug\Hotel_Manager.application
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\Hotel_Manager.exe.config
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.exe
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.pdb
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\frontend_reservation.mdf
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\frontend_reservation_log.ldf
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\login_manager.mdf
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\login_manager_log.ldf
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\Hotel_Manager.exe.manifest
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\Hotel_Manager.application
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\Hotel_Manager.exe
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\Hotel_Manager.pdb
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\MetroFramework.dll
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\RestSharp.dll
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\Twilio.Api.dll
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\RestSharp.xml
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\Twilio.Api.pdb
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\bin\Debug\Twilio.Api.xml
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojResolveAssemblyReference.cache
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.FinalizePayment.resources
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.FoodMenu.resources
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.Kitchen.resources
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.License.resources
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.Login.resources
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.Frontend.resources
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.Properties.Resources.resources
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.Cache
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.exe.manifest
+C:\Users\Nazim\Documents\GitHub\HotelManagement\HotelManagement\obj\Debug\Hotel_Manager.application
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.FinalizePayment.resources
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.FoodMenu.resources
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.Kitchen.resources
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.License.resources
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.Login.resources
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.Frontend.resources
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.Properties.Resources.resources
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.exe
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.pdb
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.exe.config
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.exe.manifest
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.application
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.exe
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.pdb
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\MetroFramework.Design.dll
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\MetroFramework.dll
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\MetroFramework.Fonts.dll
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\RestSharp.dll
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Twilio.Api.dll
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\RestSharp.xml
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Twilio.Api.pdb
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Twilio.Api.xml
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.exe.manifest
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.application
+D:\Intake 39\SD Nasr City\D18\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.CopyComplete
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.exe.config
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.exe.manifest
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.application
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.exe
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Hotel_Manager.pdb
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\MetroFramework.Design.dll
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\MetroFramework.dll
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\MetroFramework.Fonts.dll
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\RestSharp.dll
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Twilio.Api.dll
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\RestSharp.xml
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Twilio.Api.pdb
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Debug\Twilio.Api.xml
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.FinalizePayment.resources
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.FoodMenu.resources
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.Kitchen.resources
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.License.resources
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.Login.resources
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.Frontend.resources
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.Properties.Resources.resources
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.exe.manifest
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.application
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.CopyComplete
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.exe
+D:\Intake 40\Nasr City\D13\Assignment\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\Hotel_Manager.pdb
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Hotel_Manager.exe.config
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Hotel_Manager.exe.manifest
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Hotel_Manager.application
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Hotel_Manager.exe
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Hotel_Manager.pdb
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\MetroFramework.Design.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\MetroFramework.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\MetroFramework.Fonts.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\RestSharp.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Twilio.Api.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\RestSharp.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Twilio.Api.pdb
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Twilio.Api.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\HotelManagement.csproj.SuggestedBindingRedirects.cache
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.FinalizePayment.resources
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.FoodMenu.resources
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.Kitchen.resources
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.License.resources
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.Login.resources
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.Frontend.resources
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.Properties.Resources.resources
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.exe.manifest
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.application
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\HotelManagement.csproj.CopyComplete
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.exe
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\obj\Debug\Hotel_Manager.pdb
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Azure.Core.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Azure.Identity.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Identity.Client.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Buffers.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Memory.Data.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Memory.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Numerics.Vectors.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Security.AccessControl.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Security.Permissions.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Security.Principal.Windows.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Text.Encodings.Web.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Text.Json.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.ValueTuple.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Azure.Core.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Azure.Identity.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Identity.Client.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Buffers.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Memory.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Memory.Data.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Numerics.Vectors.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Security.AccessControl.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Security.Permissions.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Security.Principal.Windows.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Text.Encodings.Web.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Text.Json.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\System.ValueTuple.xml
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\ITI\ITI-9-months-scholarship\C#\HotelManagement_ADO_WindowsForms\HotelManagement\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
