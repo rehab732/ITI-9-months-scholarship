@@ -11,5 +11,7 @@ namespace CompanyApp.Entites
         public int ID { get; set; }
         public string Name { get; set; }
         public string City { get; set; }
+        public virtual List<Employee>? Employees { get; set; } = new();
+        public virtual ICollection<Client> Clients { get; set; } = new HashSet<Client>();
     }
 }

@@ -14,7 +14,9 @@ namespace CompanyApp.Entites
         public string MName { get; set; }
         public DateTime Timestamp { get; }=DateTime.Now;
         public decimal Deposit { get; set; }    
+        public virtual ICollection<Branch> Branches { get; set; }   =new HashSet<Branch>();
 
+        public virtual ICollection<EmployeeClient> EmployeeClients { get; set; } = new HashSet<EmployeeClient>();
 
     }
 }

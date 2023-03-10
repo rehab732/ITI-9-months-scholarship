@@ -21,6 +21,8 @@ namespace CompanyApp.Context
             modelBuilder.ApplyConfiguration(new ClientConfiguration());
             modelBuilder.ApplyConfiguration(new BranchConfiguration());
 
+            modelBuilder.Entity<EmployeeClient>().HasKey(ec => new { ec.ClientID, ec.EmpID });
+
             base.OnModelCreating(modelBuilder);
 
 

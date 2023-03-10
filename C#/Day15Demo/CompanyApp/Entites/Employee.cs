@@ -22,5 +22,9 @@ namespace CompanyApp.Entites
         public decimal Salary { get; set; }
         [NotMapped]
         public string FullName { get => $"{FName}{MName ?? string.Empty}{LName}"; }
+
+        public virtual Branch? Branch { get; set; }
+        public virtual ICollection<EmployeeClient> EmployeeClients { get; set; }=new HashSet<EmployeeClient>();
+
     }
 }

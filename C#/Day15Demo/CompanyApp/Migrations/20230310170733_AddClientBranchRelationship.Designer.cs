@@ -4,6 +4,7 @@ using CompanyApp.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CompanyApp.Migrations
 {
     [DbContext(typeof(CompanyContext))]
-    partial class CompanyContextModelSnapshot : ModelSnapshot
+    [Migration("20230310170733_AddClientBranchRelationship")]
+    partial class AddClientBranchRelationship
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -34,7 +37,7 @@ namespace CompanyApp.Migrations
 
                     b.HasIndex("ClientsCID");
 
-                    b.ToTable("BranchClient", (string)null);
+                    b.ToTable("BranchClient");
                 });
 
             modelBuilder.Entity("CompanyApp.Entites.Branch", b =>
@@ -58,7 +61,7 @@ namespace CompanyApp.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Branches", (string)null);
+                    b.ToTable("Branches");
                 });
 
             modelBuilder.Entity("CompanyApp.Entites.Client", b =>
@@ -90,7 +93,7 @@ namespace CompanyApp.Migrations
 
                     b.HasKey("CID");
 
-                    b.ToTable("Clients", (string)null);
+                    b.ToTable("Clients");
                 });
 
             modelBuilder.Entity("CompanyApp.Entites.Employee", b =>
@@ -126,33 +129,7 @@ namespace CompanyApp.Migrations
 
                     b.HasIndex("BranchID");
 
-                    b.ToTable("Employee", (string)null);
-                });
-
-            modelBuilder.Entity("CompanyApp.Entites.EmployeeClient", b =>
-                {
-                    b.Property<int>("ID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
-
-                    b.Property<int>("ClientCID")
-                        .HasColumnType("int");
-
-                    b.Property<int>("EmployeeID")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("Visit")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("ID");
-
-                    b.HasIndex("ClientCID");
-
-                    b.HasIndex("EmployeeID");
-
-                    b.ToTable("EmployeeClient", (string)null);
+                    b.ToTable("Employee");
                 });
 
             modelBuilder.Entity("BranchClient", b =>
@@ -179,38 +156,9 @@ namespace CompanyApp.Migrations
                     b.Navigation("Branch");
                 });
 
-            modelBuilder.Entity("CompanyApp.Entites.EmployeeClient", b =>
-                {
-                    b.HasOne("CompanyApp.Entites.Client", "Client")
-                        .WithMany("EmployeeClients")
-                        .HasForeignKey("ClientCID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("CompanyApp.Entites.Employee", "Employee")
-                        .WithMany("EmployeeClients")
-                        .HasForeignKey("EmployeeID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Client");
-
-                    b.Navigation("Employee");
-                });
-
             modelBuilder.Entity("CompanyApp.Entites.Branch", b =>
                 {
                     b.Navigation("Employees");
-                });
-
-            modelBuilder.Entity("CompanyApp.Entites.Client", b =>
-                {
-                    b.Navigation("EmployeeClients");
-                });
-
-            modelBuilder.Entity("CompanyApp.Entites.Employee", b =>
-                {
-                    b.Navigation("EmployeeClients");
                 });
 #pragma warning restore 612, 618
         }
