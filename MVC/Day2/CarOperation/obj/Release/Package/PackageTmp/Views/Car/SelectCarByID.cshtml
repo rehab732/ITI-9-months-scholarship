@@ -1,0 +1,13 @@
+﻿@using CarOperation.Models;
+@{
+    ViewBag.Title = "SelectCarByID";
+    Car select = ViewBag.selectedcar;
+}
+
+<h1 style="color:red;font:bold">Select Car By Number</h1>
+<h3>Car Number : @select.Num</h3>
+<h3>Car Model : @select.Model</h3>
+<h3>Car Color : @select.Color</h3>
+<h3>Car Manfacture : @select.Manfacture</h3>
+
+<h4 style="color:red;font:bold"><a href="/Car/GetAllCars"/> Back to Cars Table</h4>

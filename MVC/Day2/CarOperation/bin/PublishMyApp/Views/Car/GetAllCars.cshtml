@@ -1,0 +1,41 @@
+﻿@using CarOperation.Models;
+@{
+    ViewBag.Title = "GetAllCars";
+    List<Car> mycarlist = ViewBag.cars;//keda esta2belt eldata elly gaya on el controller
+
+
+}
+
+<h1 style="color:red;font:bold">Get All Cars</h1>
+<div>
+    <table style="border-collapse:collapse;margin-bottom:1rem;background-color:antiquewhite;color:black">
+        <tr>
+            <th style="border:1px solid red; "> Car Num  </th>
+            <th style="border:1px solid red; "> Car Model  </th>
+            <th style="border:1px solid red; "> Car Manfacture  </th>
+            <th style="border:1px solid red; "> Car Color  </th>
+            <th style="border:1px solid red; ">Select  </th>
+            <th style="border:1px solid red; ">Delete  </th>
+            <th style="border:1px solid red; ">Edit  </th>
+
+
+        </tr>
+        @foreach(var item in mycarlist)
+            {
+                <tr style="border:1px solid black; ">
+                    <td style="border:1px solid black; ">@item.Num</td>
+                    <td style="border:1px solid black; ">@item.Model</td>
+                    <td style="border:1px solid black; ">@item.Manfacture</td>
+                    <td style="border:1px solid black; ">@item.Color</td>
+
+                    <td  style="border:1px solid black; "><a href="/Car/SelectCarByID/@item.Num" /> Select Car  </td>
+                    <td  style="border:1px solid black; "><a href="/Car/DeleteCarByID/@item.Num" /> Delete Car  </td>
+                    <td  style="border:1px solid black; "><a href="/Car/EditCarByID/@item.Num" /> Edit Car  </td>
+
+                </tr>
+            }
+    </table>
+    <button onclick="location.href='/Car/CreateNewCar'"> Create New Car</button>
+
+ 
+</div>

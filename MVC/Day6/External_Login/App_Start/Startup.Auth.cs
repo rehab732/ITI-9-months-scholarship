@@ -60,8 +60,8 @@ namespace External_Login
 
              app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
-                ClientId = "332298538898-1jl6ucgjefh6uaioe5di9t7i80q9ao0j.apps.googleusercontent.com",
-                ClientSecret = "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"
+                ClientId = "237572237765-50a2sinsifjjoq8efios8ovank4192sm.apps.googleusercontent.com",
+                ClientSecret = "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"
              });
         }
     }

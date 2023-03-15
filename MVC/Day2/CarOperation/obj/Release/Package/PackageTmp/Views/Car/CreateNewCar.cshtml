@@ -1,0 +1,17 @@
+﻿@using CarOperation.Models;
+@{
+    ViewBag.Title = "CreateNewCar";
+    Car createe = ViewBag.create;
+}
+
+<h1 style="color:red;font:bold">Create New Car</h1>
+<form method="post" action="/Car/CreateNewCar">
+    <input type="text" name="id" value="@createe.Num" />
+    <input type="text" name="model" value="@createe.Model" />
+    <input type="text" name="color" value="@createe.Color" />
+    <input type="text" name="manfacture" value="@createe.Manfacture" />
+
+    <input type="submit" value="Add Car" />
+
+</form>
+
