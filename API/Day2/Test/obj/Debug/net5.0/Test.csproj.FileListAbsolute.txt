@@ -1,0 +1,7 @@
+E:\ITI\ITI-9-months-scholarship\API\Day2\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+E:\ITI\ITI-9-months-scholarship\API\Day2\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI-9-months-scholarship\API\Day2\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+E:\ITI\ITI-9-months-scholarship\API\Day2\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+E:\ITI\ITI-9-months-scholarship\API\Day2\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+E:\ITI\ITI-9-months-scholarship\API\Day2\Test\obj\Debug\net5.0\Test.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\ITI-9-months-scholarship\API\Day2\Test\obj\Debug\net5.0\Test.MvcApplicationPartsAssemblyInfo.cache
