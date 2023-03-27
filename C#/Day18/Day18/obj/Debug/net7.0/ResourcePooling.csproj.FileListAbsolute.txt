@@ -1,0 +1,15 @@
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\bin\Debug\net7.0\ResourcePooling.exe
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\bin\Debug\net7.0\ResourcePooling.deps.json
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\bin\Debug\net7.0\ResourcePooling.runtimeconfig.json
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\bin\Debug\net7.0\ResourcePooling.dll
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\bin\Debug\net7.0\ResourcePooling.pdb
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ResourcePooling.csproj.AssemblyReference.cache
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ResourcePooling.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ResourcePooling.AssemblyInfoInputs.cache
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ResourcePooling.AssemblyInfo.cs
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ResourcePooling.csproj.CoreCompileInputs.cache
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ResourcePooling.dll
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\refint\ResourcePooling.dll
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ResourcePooling.pdb
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ResourcePooling.genruntimeconfig.cache
+D:\ITI\c#\day18\tasks\ResourcePooling\ResourcePooling\obj\Debug\net7.0\ref\ResourcePooling.dll
