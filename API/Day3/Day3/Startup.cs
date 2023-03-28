@@ -1,7 +1,10 @@
+using Day3.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -26,7 +29,11 @@ namespace Day3
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddDbContext<DepContext>(option =>
+            {
+                option.UseSqlServer("Data Source=DESKTOP-6Q07NG7\\SQLEXPRESS;Initial Catalog=APIDay3;Integrated Security=True");
+            });
+            services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<DepContext>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -43,7 +50,7 @@ namespace Day3
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Day3 v1"));
             }
-
+            app.UseStaticFiles();
             app.UseHttpsRedirection();
 
             app.UseRouting();
