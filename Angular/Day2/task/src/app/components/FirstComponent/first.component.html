@@ -1,0 +1,27 @@
+<h1>Hello from first component</h1>
+
+<input placeholder="Enter any word" type="text" (input)="typing($event)">
+<p>{{word}}</p>
+
+<input placeholder="Enter any word" type="text" [(ngModel)]="lname"/>
+<p>{{lname}}</p>
+
+<!--Binding Ways-->
+<!--Way 1-->
+<p>{{name}}</p>
+
+<!--Way 2-->
+<input type="text" value="{{name}}" />
+
+<!--Way 3-->
+<input type="text" [value]="name"/>
+
+
+<!--Event Binding-->
+
+<input type="button" value="Change" (click)="change()">
+
+<img src="https://plus.unsplash.com/premium_photo-1678567670653-36af920cc0ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNjJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"/>
+
+
+<img [src]="imageSrc"/>
