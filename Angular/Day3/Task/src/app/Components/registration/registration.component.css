@@ -1,0 +1,30 @@
+.reg{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    text-align: center;
+}
+.reg input{
+    margin: 5px auto;
+    width: 50%;
+    border-radius: 15px;
+    height: 30px;
+}
+button
+{
+    width: 30%;
+    color: brown;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
+.reg button:active{
+    background-color: cadetblue;
+    color: antiquewhite;
+    width: 40%;
+}
+h1{
+    color: brown;
+}
+.error{
+    color: red;
+}

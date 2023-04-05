@@ -1,0 +1,22 @@
+<!--<app-all-in-file></app-all-in-file>-->
+<!-- <div>
+<h1>Parent Contain 2 Childs </h1>
+<p>rehab {{ParentData}}</p>
+
+    <div>
+        <app-home [dala3]="datafromlogin"></app-home>
+    </div>
+    <div>
+        <app-login (myEvent)="getData($event)"></app-login>
+    </div>
+    <p>{{datafromlogin}}</p>
+</div> -->
+
+<div>
+    <div>
+ <app-registration (studentEvent)="getStudentData($event)"></app-registration>
+    </div>
+    <div>
+<app-students [students]="students"></app-students>
+    </div>
+</div>

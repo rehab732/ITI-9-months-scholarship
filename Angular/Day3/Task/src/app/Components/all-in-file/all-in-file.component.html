@@ -1,0 +1,28 @@
+<h1>Registration Form </h1>
+<div class="form">
+    <input type="text" placeholder="Enter Name" [(ngModel)]="name" />
+    <input type="text" placeholder="Enter Age"  [(ngModel)]="age" />
+    <div *ngIf="+age>50 else hamada";>
+        <p style="color: red;">Age Not Valid</p>
+    </div>
+    <ng-template #hamada >
+        <p *ngIf="age" style="color: green;">Age Valid</p>
+    </ng-template>
+    <input type="button" value="Add"(click)="Add()" />
+</div>
+
+<h1>All Students</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let s of Students">
+            <td>{{s.name}}</td>
+            <td>{{s.age}}</td>
+        </tr>
+    </tbody>
+</table>

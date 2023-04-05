@@ -1,0 +1,12 @@
+table{
+    background-color: antiquewhite;
+    width: 80%;
+    text-align: center;
+    margin: 5px auto;
+    border-radius: 10px;
+    border: 1px solid black;
+
+}
+tr,th,td{
+    border: 1px solid red;
+}

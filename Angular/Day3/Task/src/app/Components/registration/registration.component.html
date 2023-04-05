@@ -1,0 +1,12 @@
+<h1>registration Form</h1>
+<div class="reg">
+   <form (ngSubmit)="addStudent($event)">
+           <input type="text" [(ngModel)]="studentname" name="studentName" placeholder="Student Name"/>
+           <input type="text" [(ngModel)]="studentAge" name="studentAge" placeholder="Student Age"/>
+           <div *ngIf="validation">
+            <p class="error">Not Valid data</p>
+           </div>
+           <button type="submit">Add Student</button>
+
+   </form>
+</div>
