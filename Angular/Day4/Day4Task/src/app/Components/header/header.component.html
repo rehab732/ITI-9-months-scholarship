@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+   
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mx-auto nav justify-content-center">
+        <li class="nav-item active">
+          <a [routerLinkActiveOptions]="{exact:true}" routerLinkActive="active" routerLink="/" class="nav-link" style="color: brown;">Home</a>
+        </li>
+        <li class="nav-item">
+          <a [routerLinkActiveOptions]="{exact:true}" routerLinkActive="active" class="nav-link"  routerLink="/students" style="color: brown;">All Syudents </a>
+        </li>
+        <li class="nav-item">
+          <a routerLinkActive="active" class="nav-link" routerLink="/students/8"  style="color: brown;">Students Details</a>
+        </li>
+        <li class="nav-item">
+          <a routerLinkActive="active"  class="nav-link"   routerLink="/nk" style="color: brown;">Error</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
