@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "name": "7obaa",
+      "age": 22,
+      "email": "nnnn@gmail.com",
+      "phone": 121212,
+      "course": "Business Administration",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "age": 19,
+      "email": "bob.johnson@example.com",
+      "phone": "555-987-6543",
+      "course": "Engineering"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "age": 21,
+      "email": "alice.brown@example.com",
+      "phone": "555-456-7890",
+      "course": "Psychology"
+    },
+    {
+      "id": 5,
+      "name": "Michael Lee",
+      "age": 23,
+      "email": "michael.lee@example.com",
+      "phone": "555-789-1234",
+      "course": "Marketing"
+    },
+    {
+      "id": 6,
+      "name": "Samantha Green",
+      "age": 20,
+      "email": "samantha.green@example.com",
+      "phone": "555-234-5678",
+      "course": "Nursing"
+    },
+    {
+      "id": 7,
+      "name": "David Kim",
+      "age": 22,
+      "email": "david.kim@example.com",
+      "phone": "555-678-9012",
+      "course": "Finance"
+    },
+    {
+      "id": 8,
+      "name": "Emily Davis",
+      "age": 19,
+      "email": "emily.davis@example.com",
+      "phone": "555-345-6789",
+      "course": "Communications"
+    },
+    {
+      "id": 9,
+      "name": "Brian Wilson",
+      "age": 21,
+      "email": "brian.wilson@example.com",
+      "phone": "555-890-1234",
+      "course": "Biology"
+    },
+    {
+      "id": 10,
+      "name": "Jessica Nguyen",
+      "age": 23,
+      "email": "jessica.nguyen@example.com",
+      "phone": "555-123-4567",
+      "course": "Mathematics"
+    },
+    {
+      "name": "koko",
+      "age": "45",
+      "phone": "0001111111",
+      "email": "rehab@gmail.com",
+      "course": "cc",
+      "id": 11
+    }
+  ]
+}

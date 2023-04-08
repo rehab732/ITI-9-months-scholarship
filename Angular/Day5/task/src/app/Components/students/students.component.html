@@ -1,0 +1,39 @@
+<!-- <app-students-item *ngFor="let s of Students" [students]="s"></app-students-item> -->
+
+<div class="container">
+    <h2>All Students In DataBase</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Course</th>
+                <th>Delete</th>
+                <th>Update</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let s of Students">
+                <td>{{s.name}}</td>
+                <td>{{s.age}}</td>
+                <td>{{s.email}}</td>
+                <td>{{s.phone}}</td>
+                <td>{{s.course}}</td>
+                <td>
+                    <a class="btn btn-danger mt-1" (click)="delete(s.id)">Delete</a>
+                </td>
+                <td>
+                    <a class="btn btn-success mt-1 " routerLink="/update/{{s.id}}">Update</a>
+                </td>
+
+
+
+            </tr>
+       
+           
+        </tbody>
+    </table>
+</div>
