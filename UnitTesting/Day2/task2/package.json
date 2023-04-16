@@ -1,0 +1,19 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.6.0"
+  },
+  "dependencies": {
+    "async": "^3.2.4",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
