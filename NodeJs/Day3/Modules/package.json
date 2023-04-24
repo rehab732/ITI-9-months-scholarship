@@ -1,0 +1,16 @@
+{
+  "name": "umdmobile43",
+  "version": "1.0.0",
+  "description": "umdModule",
+  "main": "umdModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "umd",
+    "mobile",
+    "43"
+  ],
+  "author": "rehabZaki",
+  "license": "ISC"
+}
