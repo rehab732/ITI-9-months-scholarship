@@ -1,0 +1,111 @@
+﻿@model IEnumerable<TaskSignalR.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<p id="ProductAdded" style="color:red;">
+
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>
+                CRUD part
+            </th>
+            <th>
+                Comment part
+            </th>
+            <th>
+                Reviews
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                    <p id="quantity+@item.id">@item.Quantity</p>
+            </td>
+            <td>
+                    <img style="width:250px; height:250px;" src="@Url.Content(item.Image) ">
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+                    <button onclick="BuyClientSide(@item.id)" class="btn btn-danger">Buy</button>
+            </td>
+            <td>
+                    <button onClick="MakeCommentClientSide(@item.id)" class="btn btn-success">Comment</button>
+                    <textarea id="@item.id"> </textarea>
+            </td>
+                    <td>
+                    <p id="para+@item.id" style="width:250px; height:250px; border:solid 5px black"></p>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@section Scripts{
+
+    <script src="~/lib/microsoft-signalr/signalr.min.js"></script>
+
+    <script>
+        var connection = new signalR.HubConnectionBuilder().withUrl("/MyProductsHub").build();
+        connection.start().then(function () {
+            console.log("Connection started...");
+        });
+
+        function BuyClientSide(id) {
+
+            console.log("form client side"+id);
+            connection.invoke("Buy", id);
+        };
+        function MakeCommentClientSide(id) {
+
+            console.log("form client side"+id);
+          let comment=  document.getElementById(id).value;
+
+            connection.invoke("MakeComment", id, comment,"user");
+        };
+        connection.on("ItemSold", function (qty,id) {
+
+            document.getElementById("quantity+" + id).innerHTML =qty;
+        });
+
+        connection.on("CommentAdded", function (id, content,user) {
+
+            document.getElementById("para+" + id).innerHTML += user + ":" + content+"</br>" ;
+        });
+
+        connection.on("ProductAdded",(name,price)=>{
+            document.getElementById("ProductAdded").innerHTML+=`Notification:<br/>Product ${name} has just added to the list with price ${price}<br/>`
+        });
+    </script>
+}
