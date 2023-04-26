@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\obj\\Debug\\net7.0\\build-gz\\80a9sdaS.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WebAssBlazor.styles.css",
+      "PackagePath": "staticwebassets\\WebAssBlazor.styles.css"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day1\\WebAssBlazor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAssBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebAssBlazor.props",
+      "PackagePath": "build\\WebAssBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAssBlazor.props",
+      "PackagePath": "buildMultiTargeting\\WebAssBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebAssBlazor.props",
+      "PackagePath": "buildTransitive\\WebAssBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

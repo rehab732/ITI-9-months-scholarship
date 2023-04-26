@@ -1,0 +1,12 @@
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\bin\Debug\net7.0\SharedLibrary.deps.json
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\bin\Debug\net7.0\SharedLibrary.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\bin\Debug\net7.0\SharedLibrary.pdb
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\SharedLibrary.csproj.AssemblyReference.cache
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\SharedLibrary.AssemblyInfoInputs.cache
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\SharedLibrary.AssemblyInfo.cs
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\SharedLibrary.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\refint\SharedLibrary.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\SharedLibrary.pdb
+E:\ITI\ITI-9-months-scholarship\Blazor\Day1\SharedLibrary\obj\Debug\net7.0\ref\SharedLibrary.dll

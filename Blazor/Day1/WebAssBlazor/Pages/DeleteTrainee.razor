@@ -1,0 +1,26 @@
+﻿@page "/delete/{TraineeId:int}"
+<h3>DeleteTrainee</h3>
+
+@code {
+
+    [Parameter]
+    public int TraineeId { get; set; }
+
+    public Treniee CurTre { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        CurTre = MockContext.Treniees.FirstOrDefault(tr => tr.TraineeId == TraineeId);
+        if (CurTre != null)
+        {
+            MockContext.Treniees.Remove(CurTre);
+        }
+
+        return base.OnInitializedAsync();
+    }
+
+}
+
+<div class="alert-success">
+    Traniee Deleted Successfully......
+</div>

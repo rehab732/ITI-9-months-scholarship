@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = WebAssBlazor
+build_property.RootNamespace = WebAssBlazor
+build_property.ProjectDir = E:\ITI\ITI-9-months-scholarship\Blazor\Day1\WebAssBlazor\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\ITI\ITI-9-months-scholarship\Blazor\Day1\WebAssBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Pages/AddTraniee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkVHJhbmllZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Pages/DeleteTrainee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlVHJhaW5lZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Pages/TranieeDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbmllZURldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Pages/TranieeEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbmllZUVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Pages/Tranieeovervew.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbmllZW92ZXJ2ZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7f063xsccf
+
+[E:/ITI/ITI-9-months-scholarship/Blazor/Day1/WebAssBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cv1hv8x3ob

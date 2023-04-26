@@ -1,0 +1,70 @@
+﻿@page "/AddTraniee"
+<h3>AddTraniee</h3>
+
+
+    <EditForm Model="@trainee" OnValidSubmit="@Valid">
+
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+
+        <ValidationSummary></ValidationSummary>
+        <div class="form-group row">
+            <label for="id" class="col-form-label">Traniee ID: </label>
+            <InputNumber id="id" class="form-control" @bind-Value="@trainee.TraineeId" placeholder="Enter your name"></InputNumber>
+        </div>
+
+        <div class="form-group row">
+            <label for="name" class="col-form-label">Traniee Name: </label>
+            <InputText id="name" class="form-control" @bind-Value="@trainee.TraineeName" placeholder="Enter your name"></InputText>
+        </div>
+       
+
+
+
+        <div class="form-group row">
+            <label for="birthdate" class="col-form-label">Birthdate: </label>
+            <InputDate id="birthdate" class="form-control" @bind-Value="@trainee.Birthdate" placeholder="Enter birthdate"></InputDate>
+
+        </div>
+
+        <div class="form-group row">
+            <label for="email" class="col-form-label">Email: </label>
+            <InputText id="email" class="form-control" @bind-Value="@trainee.Email" placeholder="Enter email"></InputText>
+
+        </div>
+
+        <div class="form-group row">
+            <label for="track" class="col-form-label">Track: </label>
+            <InputSelect id="track" class="form-control" @bind-Value="@trainee.TrackId">
+                @foreach (var track in @MockContext.Tracks)
+                {
+                    <option value="@track.TrackId">@track.Name</option>
+                }
+            </InputSelect>
+        </div>
+
+
+        <div class="form-group row">
+            <label for="phonenumber" class="col-form-label">Phone number: </label>
+            <InputText id="phonenumber" class="form-control" @bind-Value="@trainee.MobileNo" placeholder="Enter phone number"></InputText>
+        </div>
+
+        <div class="form-group row">
+            <label for="gender" class="col-form-label">Gender: </label>
+            <InputSelect id="gender" class="form-control" @bind-Value=@trainee.Gender>
+                <option value="@(Gender.Male)">Male</option>
+                <option value="@(Gender.Female)">Female</option>
+            </InputSelect>
+        </div>
+
+        <div class="form-group row">
+            <label for="IsGraduated" class="col-form-label">IsGraduated: </label>
+            <InputCheckbox @bind-Value="@trainee.IsGraduated"></InputCheckbox>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Add Traniee</button>
+
+    </EditForm>
+
+
+
+@inject NavigationManager NavManager
