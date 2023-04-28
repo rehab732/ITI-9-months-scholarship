@@ -1,0 +1,12 @@
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\bin\Debug\net7.0\TranieeLibrary.deps.json
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\bin\Debug\net7.0\TranieeLibrary.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\bin\Debug\net7.0\TranieeLibrary.pdb
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\TranieeLibrary.csproj.AssemblyReference.cache
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\TranieeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\TranieeLibrary.AssemblyInfoInputs.cache
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\TranieeLibrary.AssemblyInfo.cs
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\TranieeLibrary.csproj.CoreCompileInputs.cache
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\TranieeLibrary.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\refint\TranieeLibrary.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\TranieeLibrary.pdb
+E:\ITI\ITI-9-months-scholarship\Blazor\Day2\TranieeLibrary\obj\Debug\net7.0\ref\TranieeLibrary.dll

@@ -1,0 +1,31 @@
+﻿@page "/deleteDB/{TraineeId:int}"
+
+<h3>DeleteTreniee</h3>
+
+@code {
+
+    [Parameter]
+    public int TraineeId { get; set; }
+
+    public Treniee CurTre { get; set; }
+    [Inject]
+    public ITrenieeDataServices  trenieeDataService{ get; set; }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        CurTre = await trenieeDataService.GetTrenieeDetails(TraineeId);
+        if (CurTre != null)
+        {
+           await trenieeDataService.DeleteTreniee(TraineeId);
+
+        }
+
+        //return base.OnInitializedAsync();
+    }
+}
+
+
+<div class="alert-success">
+    Traniee Deleted Successfully......
+</div>

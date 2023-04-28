@@ -1,0 +1,61 @@
+﻿@page "/tranieedetailsDB/{TraineeId:int}"
+
+<h3>TrenieeDetails</h3>
+
+@code {
+
+    [Parameter]
+    public int TraineeId { get; set; }
+
+    public Treniee CurTre { get; set; }
+    [Inject]
+    public ITrenieeDataServices trenieeDataService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        //CurTre = MockContext.Treniees.FirstOrDefault(tr => tr.TraineeId == TraineeId);
+        CurTre = await trenieeDataService.GetTrenieeDetails(TraineeId);
+
+    }
+}
+
+
+
+<div class="form-group row">
+    <label class="col-form-label"> Trennie Id</label>
+    <label class="form-control"> @CurTre.TraineeId </label>
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label"> Trenmie Name </label>
+    <label class="form-control"> @CurTre.TraineeName </label>
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label"> Mobile Number </label>
+    <label class="form-control"> @CurTre.MobileNo </label>
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label"> Birthdate </label>
+    <label class="form-control"> @CurTre.Birthdate.ToShortDateString() </label>
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label"> Email </label>
+    <label class="form-control"> @CurTre.Email </label>
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label"> Graduated? </label>
+    <label class="form-control"> @CurTre.IsGraduated.ToString() </label>
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label"> Gender </label>
+    <label class="form-control"> @CurTre.Gender </label>
+</div>
+
+
+
+

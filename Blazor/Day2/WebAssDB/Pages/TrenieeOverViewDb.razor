@@ -1,0 +1,48 @@
+﻿@page "/Alltreniee"
+<h3>TrenieeOverViewDb</h3>
+
+@code {
+    IEnumerable<Treniee> AllTreniees;
+
+    [Inject]
+    public ITrenieeDataServices  trenieeDataService{ get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+            AllTreniees = await trenieeDataService.GetAllTreniees();
+    }
+}
+
+
+@if (AllTreniees==null)
+{
+    <p> Loading Treniees Data......... </p>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th> Treniee ID </th>
+            <th> Treniee Name </th>
+            <th> Mobile Number </th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+
+        </tr>
+        @foreach (var item in AllTreniees)
+        {
+            <tr>
+                <td> @item.TraineeId </td>
+                <td> @item.TraineeName </td>
+                <td> @item.MobileNo </td>
+                <td> <a href="@($"tranieedetailsDB/{item.TraineeId}")" class="btn btn-outline-primary"> Details </a> </td>
+                <td> <a href="@($"tranieeeditDB/{item.TraineeId}")" class="btn btn-outline-success"> Edit </a> </td>
+                <td> <a href="@($"deleteDB/{item.TraineeId}")" class="btn btn-outline-danger"> Delete </a> </td>
+
+            </tr>
+        }
+    </table>
+
+    <a href="AddTraniee" class="btn btn-success">Create New Trainee</a>
+}
