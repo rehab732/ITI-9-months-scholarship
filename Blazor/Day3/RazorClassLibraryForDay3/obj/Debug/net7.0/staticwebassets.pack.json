@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RazorClassLibraryForDay3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RazorClassLibraryForDay3.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RazorClassLibraryForDay3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RazorClassLibraryForDay3.props",
+      "PackagePath": "build\\RazorClassLibraryForDay3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorClassLibraryForDay3.props",
+      "PackagePath": "buildMultiTargeting\\RazorClassLibraryForDay3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RazorClassLibraryForDay3.props",
+      "PackagePath": "buildTransitive\\RazorClassLibraryForDay3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

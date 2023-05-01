@@ -1,6 +1,7 @@
 using BlazorServerDay3.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using MudBlazor.Services;
 
 namespace BlazorServerDay3
 {
@@ -14,6 +15,7 @@ namespace BlazorServerDay3
             builder.Services.AddRazorPages();
             builder.Services.AddServerSideBlazor();
             builder.Services.AddSingleton<WeatherForecastService>();
+            builder.Services.AddMudServices();
 
             var app = builder.Build();
 

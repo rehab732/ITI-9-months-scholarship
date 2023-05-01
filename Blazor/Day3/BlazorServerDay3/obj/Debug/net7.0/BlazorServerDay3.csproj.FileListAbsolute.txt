@@ -30,3 +30,14 @@ E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\obj\Debug\net7.0\re
 E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\obj\Debug\net7.0\BlazorServerDay3.pdb
 E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\obj\Debug\net7.0\BlazorServerDay3.genruntimeconfig.cache
 E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\obj\Debug\net7.0\ref\BlazorServerDay3.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\RazorClassLibraryForDay3.staticwebassets.runtime.json
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\Microsoft.JSInterop.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\RazorClassLibraryForDay3.dll
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\RazorClassLibraryForDay3.pdb
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\obj\Debug\net7.0\BlazorServerDay3.csproj.CopyComplete
+E:\ITI\ITI-9-months-scholarship\Blazor\Day3\BlazorServerDay3\bin\Debug\net7.0\MudBlazor.dll

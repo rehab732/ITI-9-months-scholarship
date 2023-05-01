@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "ZNhpO8pdk3nrI9Y09iTA9qM9HGa/vVOjeRAeXjF/Myg=",
+  "Source": "RazorClassLibraryForDay3",
+  "BasePath": "_content/RazorClassLibraryForDay3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorClassLibraryForDay3\\wwwroot",
+      "Source": "RazorClassLibraryForDay3",
+      "ContentRoot": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\wwwroot\\",
+      "BasePath": "_content/RazorClassLibraryForDay3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\RazorClassLibraryForDay3.styles.css",
+      "SourceId": "RazorClassLibraryForDay3",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RazorClassLibraryForDay3",
+      "RelativePath": "RazorClassLibraryForDay3.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\RazorClassLibraryForDay3.styles.css"
+    },
+    {
+      "Identity": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RazorClassLibraryForDay3.bundle.scp.css",
+      "SourceId": "RazorClassLibraryForDay3",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RazorClassLibraryForDay3",
+      "RelativePath": "RazorClassLibraryForDay3.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RazorClassLibraryForDay3.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\wwwroot\\background.png",
+      "SourceId": "RazorClassLibraryForDay3",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\wwwroot\\",
+      "BasePath": "_content/RazorClassLibraryForDay3",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "RazorClassLibraryForDay3",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\RazorClassLibraryForDay3\\wwwroot\\",
+      "BasePath": "_content/RazorClassLibraryForDay3",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

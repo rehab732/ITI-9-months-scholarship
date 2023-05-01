@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\BlazorServerDay3\\wwwroot\\js\\mainjs.js",
+      "PackagePath": "staticwebassets\\js\\mainjs.js"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorServerDay3.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

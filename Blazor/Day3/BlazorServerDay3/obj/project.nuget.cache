@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "FnURBwV9TWy46Ygk8Cb6Myc5JV4n0arTt7iWWUaOBbiuGLPIB8FIcBW/ZQ71Cn7JquxsafVaekfb5duMdzCQjg==",
+  "dgSpecHash": "1Q/Rg1ORb2ELpXuGsNLASZOAMkmX5iHA34yEGHCV+0+Qk9EF9brqrYif49STlO5It5GI8/IqNzzjPjb23rFacw==",
   "success": true,
   "projectFilePath": "E:\\ITI\\ITI-9-months-scholarship\\Blazor\\Day3\\BlazorServerDay3\\BlazorServerDay3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.2\\microsoft.aspnetcore.authorization.7.0.2.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.2\\microsoft.aspnetcore.components.7.0.2.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.2\\microsoft.aspnetcore.components.analyzers.7.0.2.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.2\\microsoft.aspnetcore.components.forms.7.0.2.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.2\\microsoft.aspnetcore.components.web.7.0.2.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.2\\microsoft.aspnetcore.metadata.7.0.2.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\microsoft.jsinterop\\7.0.2\\microsoft.jsinterop.7.0.2.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\mudblazor\\6.2.2\\mudblazor.6.2.2.nupkg.sha512",
+    "C:\\Users\\Bebo\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

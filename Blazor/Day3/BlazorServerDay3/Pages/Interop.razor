@@ -1,0 +1,56 @@
+﻿@page "/interop"
+
+@inject IJSRuntime jsRuntime
+<h1>Call js function from c# code </h1>
+<button @onclick="OnButtonClicked">Alert Me</button>
+<button @onclick="CallJS">Call Js</button>
+<p>@favoritMovie</p>
+@code{
+	string favoritMovie;
+	async Task OnButtonClicked()
+	{
+		await jsRuntime.InvokeVoidAsync("console.log", "Hello Ra7oba from C#");
+		favoritMovie = await jsRuntime.InvokeAsync<string>("prompt", "what is your fav movie");
+		await jsRuntime.InvokeVoidAsync("alert", favoritMovie);
+	}
+	async Task CallJS()
+	{
+			await jsRuntime.InvokeVoidAsync("GetName");//not built in function in js
+	}
+}
+
+<button @onclick="Check">Call From Blazor</button>
+
+
+<div>@msg</div>
+@code{
+
+	[Inject]
+	public IJSRuntime jSRuntime2 { get; set; }
+	public string msg{ get; set; }
+	async Task Check()
+	{
+		bool confirmed = await jSRuntime2.InvokeAsync<bool>("confirm", "Are You a boy?");
+		if(confirmed)
+		{
+			msg = "i love boys";
+		}
+		else
+		{
+			msg = "yeeeeh you girl";
+		}
+	}
+}
+
+<h1>Call C# function from js code </h1>
+
+<button onclick="giveMeRandomInt()">Random</button>
+@*giveMeRandomInt==> it is built in function on js*@
+<div>The Random Number is : <span id="randomNumSpan"></span></div>
+@code{
+	[JSInvokable]
+	public static Task<int>GenerateRandomInt()
+	{
+		return Task.FromResult(new Random().Next());
+	}
+}
