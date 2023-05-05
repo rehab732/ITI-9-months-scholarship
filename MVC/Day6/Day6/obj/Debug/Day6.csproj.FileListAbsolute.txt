@@ -54,8 +54,13 @@ E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Antlr3.Runtime.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\EntityFramework.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\EntityFramework.SqlServer.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.dll
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Security.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Web.Infrastructure.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Newtonsoft.Json.dll
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Owin.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\System.Web.Helpers.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\System.Web.Mvc.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\System.Web.Optimization.dll
@@ -66,6 +71,10 @@ E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\System.Web.WebPages.Razor.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\WebGrease.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\EntityFramework.xml
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\EntityFramework.SqlServer.xml
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.xml
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Security.xml
+E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Security.Cookies.xml
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\System.Web.Helpers.xml
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\System.Web.Mvc.xml
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\System.Web.Optimization.xml
@@ -81,12 +90,3 @@ E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\obj\Debug\Day6.csproj.CoreCompileI
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\obj\Debug\Day6.csproj.CopyComplete
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\obj\Debug\Day6.dll
 E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\obj\Debug\Day6.pdb
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.dll
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Host.SystemWeb.dll
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Security.Cookies.dll
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Security.dll
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Owin.dll
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.xml
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Host.SystemWeb.xml
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Security.xml
-E:\ITI\ITI-9-months-scholarship\MVC\Day6\Day6\bin\Microsoft.Owin.Security.Cookies.xml

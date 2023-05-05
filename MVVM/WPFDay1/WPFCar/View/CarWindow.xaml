@@ -91,7 +91,12 @@
                             <TextBox Width="150"  Height="30" Margin="5" Text="{Binding Price}"/>
                         </StackPanel>
                     </StackPanel>
-                     <Button Margin="5"  Height="40" Width="150" Content="Add" Command="{Binding AddCommand}" CommandParameter="{Binding Newcar }"/>
+                     <Button Margin="5"  
+                             Height="40"
+                             Width="150" 
+                             Content="Add"
+                             Command="{Binding AddCommand}" 
+                             CommandParameter="{Binding Newcar }"/>
                 </StackPanel>
             </Border>
         </Grid>

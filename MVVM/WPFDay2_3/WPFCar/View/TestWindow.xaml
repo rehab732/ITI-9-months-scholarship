@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPFCar.View.TestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:inter="http://schemas.microsoft.com/xaml/behaviors"
+        xmlns:local="clr-namespace:WPFCar.View"
+        mc:Ignorable="d"
+        Height="450" Width="800" Title="Test" >
+        <Grid>
+            <ListView Name="lst">
+                <ListViewItem>item 1</ListViewItem>
+                <ListViewItem>item 2</ListViewItem>
+                <ListViewItem>item 3</ListViewItem>
+                <inter:Interaction.Triggers>
+                <inter:EventTrigger EventName="SelectionChanged">
+                        <inter:InvokeCommandAction
+                            Command="{Binding NewCommand}">
+                        </inter:InvokeCommandAction>
+                    </inter:EventTrigger>
+                </inter:Interaction.Triggers>
+            </ListView>
+        </Grid>
+</Window>
