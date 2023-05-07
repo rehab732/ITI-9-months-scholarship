@@ -1,0 +1,20 @@
+
+.slider{
+
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+img{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-left: 10px ;
+  margin-right: 10px;
+
+}
