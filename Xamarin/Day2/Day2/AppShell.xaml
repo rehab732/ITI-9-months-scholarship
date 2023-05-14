@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Day2.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Day2"
+   xmlns:cimg="clr-namespace:CommunityToolkit.Maui.Views;assembly=CommunityToolkit.Maui" 
+    Shell.FlyoutBehavior="Flyout" FlyoutIcon="menu.svg" FlyoutBackgroundColor="#CEE5D0"
+    >
+    <Shell.FlyoutHeader>
+        <VerticalStackLayout Spacing="10" BackgroundColor="#94B49F" HeightRequest="200" Padding="15">
+            <cimg:AvatarView
+                ImageSource="https://i.pinimg.com/236x/a9/6e/48/a96e48c15a5ea2582e2ff0cba73249c2.jpg"
+                HeightRequest="100"
+                WidthRequest="100"
+                CornerRadius="70"
+                />
+            <Label Text="1000 k followers" FontSize="Large" FontFamily="Bold"/>
+            
+        </VerticalStackLayout>
+    </Shell.FlyoutHeader>
+    
+    <Shell.FlyoutFooter>
+        <VerticalStackLayout Spacing="10" BackgroundColor="#94B49F" HeightRequest="50">
+            <Label Text="Footer Panel " FontSize="Large" FontFamily="Bold" HorizontalTextAlignment="Center"/>
+        </VerticalStackLayout>
+    </Shell.FlyoutFooter>
+    
+    
+    <ShellContent
+            Icon="home.svg"
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+        <ShellContent
+            Icon="prof.svg"
+        Title="Profile"
+        ContentTemplate="{DataTemplate local:Second}"
+        Route="Second" />
+        
+        
+        <ShellContent Title="Messages" Icon="msg.svg">
+            <ContentPage>
+                <Label Text="Messages page"></Label>
+            </ContentPage>
+        </ShellContent>
+        
+        
+        <ShellContent Title="Settings" Icon="sett.svg">
+            <ContentPage>
+                <Label Text="Settings Page"></Label>
+            </ContentPage>
+        </ShellContent>
+
+        <ShellContent Title="Lists" Icon="list.svg">
+            <ContentPage>
+                <Label Text="Lists Page"></Label>
+            </ContentPage>
+        </ShellContent>
+
+        <ShellContent Title="Logout" Icon="logout.svg">
+            <ContentPage>
+                <Label Text="LogOut Page"></Label>
+            </ContentPage>
+        </ShellContent>
+
+
+   
+</Shell>
