@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Day1.page2"
+             Title="Photographer">
+    <VerticalStackLayout>
+        <Image
+            Source="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            >
+        </Image>
+        <HorizontalStackLayout Spacing="15">
+            <Label Text="Like" FontSize="15" TextColor="Blue"/>
+            <Label Text="Comment" FontSize="15" TextColor="Blue"/>
+            <Label Text="share" FontSize="15" TextColor="Blue"/>
+        </HorizontalStackLayout>
+        <VerticalStackLayout Spacing="5">
+            <Label Text="700 Likes" TextColor="Black" FontSize="30" FontFamily="Bold"/>
+            <Label Text="is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make" TextColor="Black"/>
+            <Button
+                    Text="Go to Second task"
+                    WidthRequest="150"
+                    HeightRequest="50"
+                    CornerRadius="10"
+                   Clicked="NavigateToPage3"
+                    >
+            </Button>
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

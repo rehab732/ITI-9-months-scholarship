@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Day1.Page1"
+             Title="Phone Number">
+    <VerticalStackLayout>
+
+        <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="60">
+            <HorizontalStackLayout>
+                <Label
+                    x:Name="result"
+                    BackgroundColor="Blue"
+                    FontAttributes="Bold"
+                    FontSize="30"
+                    Text="0"
+                    TextColor="red"
+                    
+                    ></Label>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout Spacing="5">
+                <Button 
+                    Text="1"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    
+                    >
+                </Button>
+                <Button 
+                    Text="2"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    >
+                </Button>
+                <Button 
+                    Text="3"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    
+                    >
+                </Button>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Spacing="5" Padding="10">
+                <Button 
+                    Text="4"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    
+                    >
+                </Button>
+                <Button 
+                    Text="5"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    >
+                </Button>
+                <Button 
+                    Text="6"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    
+                    >
+                </Button>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Spacing="5">
+                <Button 
+                    Text="7"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    
+                    >
+                </Button>
+                <Button 
+                    Text="8"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    >
+                </Button>
+                <Button 
+                    Text="9"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    
+                    >
+                </Button>
+            </HorizontalStackLayout>
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="10" Spacing="10">
+                <Button 
+                    Text="0"
+                    WidthRequest="80"
+                    HeightRequest="80"
+                    Background="gray"
+                    CornerRadius="30"
+                    Clicked="selectnum"
+                    >
+                </Button>
+                <Button
+                    Text="Dial"
+                    Background="green"
+                    WidthRequest="150"
+                    HeightRequest="50"
+                    CornerRadius="10"
+                    >
+                    
+                </Button>
+                <Button
+                    Text="Delete"
+                    Background="red"
+                    WidthRequest="150"
+                    HeightRequest="50"
+                    CornerRadius="10"
+                    Clicked="clear"
+                    >
+
+                </Button>
+                <Button
+                    Text="Go to Second task"
+                    WidthRequest="150"
+                    HeightRequest="50"
+                    CornerRadius="10"
+                   Clicked="NavigateToPage2"
+                    >
+                </Button>
+
+            </StackLayout>
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>
