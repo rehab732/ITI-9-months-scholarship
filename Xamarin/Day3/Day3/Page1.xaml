@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Day3.Page1"
+             Title="Cities List">
+    <VerticalStackLayout>
+        <SearchBar 
+            TextChanged="SearchBar_TextChanged"
+            >
+        </SearchBar>
+        <ListView 
+            IsPullToRefreshEnabled="True"
+            Refreshing="lst_Refreshing"
+            x:Name="lst" ItemTapped="lst_ItemTapped" ItemSelected="lst_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <!--
+                        <TextCell
+                        Text="{Binding CityName}"
+                        Detail="{Binding Date}"
+                        TextColor="#643843"
+                        >
+                        <TextCell.ContextActions>
+                            <MenuItem Text="Delete" Clicked="Delete_Clicked" CommandParameter="{Binding}"></MenuItem>
+                        </TextCell.ContextActions>
+                    </TextCell>
+                    -->
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Spacing="5">
+                            <Image Source="city.svg" WidthRequest="20" HeightRequest="20"/>
+                            <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand" Spacing="5" >
+                                <Label Text="{Binding CityName}" TextColor="Brown" FontSize="15"/>
+                                <Label Text="{Binding Date}" TextColor="Black" FontSize="15"/>
+                            </StackLayout>
+                            <Button Text="Delete" Clicked="Delete_Clicked" BackgroundColor="Red" CommandParameter="{Binding}"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+</ContentPage>
